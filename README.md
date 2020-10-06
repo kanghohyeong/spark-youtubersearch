@@ -1,2 +1,5 @@
-# spark-youtubersearch
- youtuber search service
+# 유튜버 검색 서비스
+
+<hr>
+
+<p>스파크 프로그램 참여 중</p>
