@@ -2,11 +2,13 @@
   width: 100%;
   background-color: #384259;
   display: flex;
-  justify-content: center;
+  height: 50px;
 }
 
 .logo-contain {
   margin-left: 20%;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .end-button {

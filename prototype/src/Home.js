@@ -1,37 +1,38 @@
 import React, {useState, useEffect, Component} from 'react';
 import { Link } from 'react-router-dom';
 import Tab from './tab';
+import './Home.css'
 
 export default function Home() {
 
-  const style = {
-    width: "500",
-    display: "flex",
-    flexDirection: "column",
-    alignItems: "center",
-    padding: 5
-  }
+  // const style = {
+  //   width: "100%",
+  //   display: "flex",
+  //   flexDirection: "column",
+  //   alignItems: "center",
+  //   padding: 5
+  // }
 
-  const welcomeStyle = {
-    backgroundColor: "#384259",
-    padding: 10,
-    margin: 10,
-    textAlign: "center",
-    color: "white"
-  }
+  // const welcomeStyle = {
+  //   backgroundColor: "#384259",
+  //   padding: 10,
+  //   margin: 10,
+  //   textAlign: "center",
+  //   color: "white"
+  // }
   const [isLoggedIn, setIsLoggedIn] = useState(false)
 
   let welcome;
   if (!isLoggedIn) {
     welcome = 
-    <div style={welcomeStyle}>
-      <h2>로그인 시 회원님의 유튜브 구독 리스트를 분석하여취향에 딱 맞는 개인 추천 서비스를 제공합니다.</h2>
-      <button>로그인</button>
+    <div className="reco-box">
+      <h2>회원님의 취향을 분석하여 회원님께 딱 맞는 유튜버 추천 서비스를 제공합니다.</h2>
+      <button>맞춤 추천 시작</button>
     </div> 
   }
 
   return(
-    <div style={style}>
+    <div className="home-box">
       {welcome}
       <Tab/>
     </div>

@@ -3,6 +3,7 @@ import { Route } from 'react-router-dom';
 import YoutuberInfo from './youtuberinfo'
 import Banner from './banner'
 import Home from './Home'
+import './App.css'
 
 function App() {
 
