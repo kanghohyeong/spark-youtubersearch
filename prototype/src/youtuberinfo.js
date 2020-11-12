@@ -1,9 +1,11 @@
 import React from 'react';
-import Review from './review'
-import ProfileBanner from './profileBanner'
-import Videos from './videos'
+import ReviewList from './reviewList';
+import ProfileBanner from './profileBanner';
+import Videos from './videos';
 import WordCloud from './wordCloud';
-
+import data from './data/youtuberData.json';
+import Similar from './similar';
+import Match from './match'
 export default function YoutuberInfo({match}) {
 
   const style = {
@@ -11,18 +13,21 @@ export default function YoutuberInfo({match}) {
     flexDirection: "column",
     alignItems: "center"
   }
-	
+
+  const youtuber = data.youtubers.filter(it => it.name === match.params.name)[0]
+  
 	return (
 		<div style={style}>
-			<ProfileBanner name={match.params.name} subscribers="144만명"/>
-			<Videos/>
-			{/* 
-			<Match/>
-			*/}
-			<WordCloud/>
-			<Review name="말강님" comment="아프리카 롤통령 김민교. 철없는 놈처럼 보이지만 책임감있는 태도와 의젓한 모습을 가진 외유내강의 사나이.. 너란남자.." like="231"/>
-			{/* <Similar/> */}
+			<ProfileBanner name={youtuber.name} subscribers={youtuber.subscribers} link={youtuber.link}/>
+			<Videos bestVideo={youtuber.bestVideo} latestVideo={youtuber.latestVideo}/>
+      <hr width={"700"}color={"#CFCFCF"}/>
+			<Match rate={youtuber.rate} me={youtuber.me}/>
+      <hr width={"700"}color={"#CFCFCF"}/>
+			<WordCloud characters={youtuber.characters}/>
+      <hr width={"700"}color={"#CFCFCF"}/>
+			<ReviewList comments={youtuber.comments}/>
+      <hr width={"700"}color={"#CFCFCF"}/>
+			<Similar similar={youtuber.similar}/>
 		</div>
 	);
 }
-  
