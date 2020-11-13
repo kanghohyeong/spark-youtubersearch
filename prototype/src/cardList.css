@@ -17,3 +17,7 @@
   display: flex;
   width: 100%;
 }
+
+.cardList-contain > h2 > span:nth-child(odd) {
+  color: #7ac7c4;
+}

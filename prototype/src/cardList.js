@@ -16,7 +16,7 @@ export default function CardList(props) {
 
   return(
     <div className="cardList-contain">
-      <h2>{props.title}</h2>
+      <h2><span>{props.title[0]}</span><span>{props.title[1]}</span><span>{props.title[2]}</span><span>{props.title[3]}</span></h2>
       <div className="card-contain">
         {card}
       </div>
