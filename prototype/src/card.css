@@ -1,0 +1,29 @@
+.card-link {
+  text-decoration: none;
+  width: 18%;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 3px slategray;
+  color: dimgrey;
+}
+
+.name-img {
+  background-color: white;
+  border-bottom: 1px solid darkgray;
+}
+
+.subs-char {
+  background-color: white;
+}
+
+.subs-char h3 {
+  font-size: 15px;
+}
+
+.subs-char p {
+  margin: 0;
+}

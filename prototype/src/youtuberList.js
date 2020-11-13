@@ -3,6 +3,9 @@ import { Link } from 'react-router-dom';
 import data from './data/listData.json'
 import youtuberData from './data/youtuberData'
 import CardList from './cardList'
+import './youtuberList.css'
+
+
 export default function YoutuberList(props) {
 
   const style = {

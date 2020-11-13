@@ -1,0 +1,19 @@
+.cardList-contain {
+  text-align: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid dimgrey;
+}
+
+.cardList-contain > h2 {
+  display: inline-block;
+  background-color: #384259;
+  color: white;
+  padding: 0 10px;
+  border-radius: 5px;
+}
+
+.card-contain {
+  justify-content: space-around;
+  display: flex;
+  width: 100%;
+}

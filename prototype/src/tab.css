@@ -1,0 +1,31 @@
+.list-tab-contain {
+  width: 100%;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.sub-title {
+  font-size: 20px;
+  display: inline;
+}
+
+.button-box {
+  display: inline;
+  float: right;
+}
+
+.button-box button {
+  background-color: darkgrey;
+  margin: 0 2px;
+}
+
+.tab-box {
+  display: flex;
+}
+
+.tab-box button {
+  height: 50px;
+  font-size: 20px;
+  margin: 0 2px;
+  border-width: 1px;
+}
