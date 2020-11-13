@@ -12,17 +12,20 @@ export default function Match(props) {
     margin: 10,
     width: 100,
     height: 100,
-    backgroundColor : "#FA3838",
+    backgroundColor : "#F73859",
     padding:10,
   }
   const innerColor = {
-    backgroundColor : "#FA3838",
+    backgroundColor : "#F73859",
     border: "1px solid white",
-    textAlign: "center"
+    textAlign: "center",
+    height: 95,
+    width: 95,
   }
 
   const fontColor = {
     color: "white",
+    
   }
 
   // const boxStyle = {
