@@ -10,7 +10,7 @@ class banner extends Component {
       <div className="top-banner">
        <h2 className="logo-contain"><Link to="/" className="title-logo">YouReco!</Link></h2>
        <input className="search-box" type={"text"} placeholder={"유튜버를 검색하세요"}/>
-       <button className="end-button">종료하기</button>
+       <a href={'https://forms.gle/em6MAXhFhQqRjtVP7'}><button className="end-button">종료하기</button></a>
      </div>
     );
   }

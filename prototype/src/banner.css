@@ -12,14 +12,17 @@
 }
 
 .end-button {
-  margin-right: 20%;
   height: 40px;
-  margin-top: auto;
-  margin-bottom: auto;
   background-color: #f73859;
   color: white;
   border: none;
   border-radius: 5px;
+}
+
+.top-banner > a {
+  margin-right: 20%;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .title-logo {
