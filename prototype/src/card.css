@@ -16,6 +16,10 @@
   border-bottom: 1px solid darkgray;
 }
 
+.name-img > h3 {
+  height: 3em;
+}
+
 .subs-char {
   background-color: white;
 }
