@@ -43,9 +43,18 @@ export default function Match(props) {
 	);
 }
 
+
+const highlightText = {
+  color:"#4ECDC4", display:"inline-block"
+}
+
+const normalText = {
+  display:"inline-block", color:"white"
+}
+
 const mapWord = new Map([
-  ["트위치tv", <p><p style={{color:"#4ECDC4", display:"inline-block", fontSize:25}}>트위치tv</p><p style={{display:"inline-block", color:"white", fontSize:25}}>에서 방송 중 입니다.</p></p>],
-  ["높은텐션", <p>높은 텐션을 가지고 있습니다.</p>],
-  ["리그오브레전드", <p>리그오브레전드를 플레이합니다.</p>]
+  ["트위치tv", <p style={normalText}><p style={highlightText}>트위치tv</p>에서 방송 중 입니다.</p>],
+  ["높은텐션", <p style={normalText}><p style={highlightText}>높은 텐션</p>을 가지고 있습니다.</p>],
+  ["리그오브레전드", <p style={normalText}><p style={highlightText}>리그오브레전드</p>를 플레이합니다.</p>]
 
 ])
