@@ -6,6 +6,7 @@ import './startpage.css';
 export default function Start() {
   const list = category.map(it => false)
 
+  const [name, setName] = useState("")
   const [gender, setGender] = useState()
   const [usual, setUsual] = useState(list)
   const [want, setWant] = useState(list)
@@ -16,9 +17,9 @@ export default function Start() {
   
   // 입력을 모두 했는지 검사해 disabled 변경
   useEffect(() => {
-    if(!gender || usual.indexOf(true) === -1 || want.indexOf(true) === -1) setDisabled(true)
+    if(name === "" || !gender || usual.indexOf(true) === -1 || want.indexOf(true) === -1) setDisabled(true)
     else setDisabled(false)
-  }, [usual, want, gender])
+  }, [name, usual, want, gender])
 
   // 마지막 안내 후 시작하기 눌렀을 때
   const submit = () => {
@@ -34,7 +35,7 @@ export default function Start() {
       wantList.pop()
       wantList.push(wantEtc)
     }
-    localStorage.setItem("survey", JSON.stringify({gender: gender, usual: usualList, want: wantList}))
+    localStorage.setItem("survey", JSON.stringify({name: name, gender: gender, usual: usualList, want: wantList}))
     window.location.reload()
   }
 
@@ -61,6 +62,12 @@ export default function Start() {
       </div>
       
       <div className="int-contain">
+        <label className="gender" for="gender"><span>아이디</span>
+          <span>
+            <span><input type='text' name='name' value={name} onChange={(e)=>setName(e.target.value)}/></span>
+          </span>
+        </label>
+
         <label className="gender" for="gender"><span>성별</span>
           <span>
             <span><input type='radio' name='gender' value='male' checked={gender === "남성"} onChange={()=>setGender("남성")}/>남성</span>

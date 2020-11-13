@@ -1,49 +1,36 @@
 import React, {useState, useEffect, Component} from 'react';
 import { Link } from 'react-router-dom';
+import ReactModal from 'react-modal'
 import './banner.css';
+import {db} from './App.js'
+export default function Banner() {
 
+  const [openEndModal, setOpenEndModal] = useState(false)
 
+  const finish = () => {
+    const survey = localStorage.getItem("survey")
 
-class banner extends Component {
-  render() {
-    return (
-      <div className="top-banner">
-       <h2 className="logo-contain"><Link to="/" className="title-logo">YouReco!</Link></h2>
-       <input className="search-box" type={"text"} placeholder={"유튜버를 검색하세요"}/>
-       <a href={'https://forms.gle/em6MAXhFhQqRjtVP7'}><button className="end-button">종료하기</button></a>
-     </div>
-    );
+    db.collection("survey").add(JSON.parse(survey))
+    .then(function(docRef) {
+      localStorage.removeItem("survey")
+      window.location.reload()
+    })
+    .catch(function(error) {
+    });
+  
   }
+
+  return (
+    <div className="top-banner">
+     <h2 className="logo-contain"><Link to="/" className="title-logo">YouReco!</Link></h2>
+     <input className="search-box" type={"text"} placeholder={"유튜버를 검색하세요"}/>
+     <button className="end-button" onClick={() => setOpenEndModal(true)}>종료하기</button>
+     <ReactModal isOpen={openEndModal}>
+       <h1>정말 종료하시겠습니까?</h1>
+       <button onClick={() => setOpenEndModal(false)}>취소</button>
+       <button onClick={() => finish()}>확인</button>
+     </ReactModal>
+   </div>
+  );
 }
 
-export default banner;
-
-
-// export default function Banner() {
-
-//   const style = {
-//     width: "100%",
-//     backgroundColor: "#384259",
-//     display: "flex",
-//     justifyContent: "space-around",
-//     padding: 5
-//   }
-
-//   const font = {
-//     // fontFamily: "luckiest-guy"
-//     color: "#F73859",
-//     fontSize: 30
-//   }
-
-//   const textColor = {
-//     color: "#FFF"
-//   }
-
-//   return(
-//     <div style={style}>
-//       <h2><Link to="/" style={font}>YouReco!</Link></h2>
-//       <input type={"text"} placeholder={"유튜버를 검색하세요"}/>
-//       <h2 style={textColor}>로그인 회원가입</h2>
-//     </div>
-//   )
-// }
