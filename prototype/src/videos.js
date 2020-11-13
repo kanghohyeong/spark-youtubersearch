@@ -17,6 +17,7 @@ export default function Videos(props) {
 
   const best = changeToImg(props.bestVideo)
   const latest = changeToImg(props.latestVideo)
+  const latest2 = changeToImg(props.latestVideo2)
   
   return(
     <div className="video-contain">
@@ -26,7 +27,11 @@ export default function Videos(props) {
       </div>
       <div className="video">
         <h3>최근 업로드</h3>
-        <a href={props.latestVideo}><img src={latest}/></a>
+        <div className="latestvideos-box">
+          <a href={props.latestVideo}><img src={latest}/></a>
+          <a href={props.latestVideo2}><img src={latest2}/></a>
+        </div>
+        
       </div>
     </div>
   )

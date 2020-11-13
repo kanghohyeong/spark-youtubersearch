@@ -7,6 +7,7 @@
     "rate": 4.6,
     "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
     "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
+    "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
 
     "me": [
       "트위치tv", "높은텐션", "리그오브레전드"
@@ -17,7 +18,8 @@
       { "text": "PC게임", "value": 16 },
       { "text": "트위치TV","value": 17 },
       { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 }
+      { "text": "높은텐션","value": 13 },
+      { "text": "과몰입","value": 17 }
     ],
 
     "comments": [
@@ -42,7 +44,8 @@
     "link": "https://www.youtube.com/channel/UCVJT18d9wSCnDUdnJ9ycO7Q",
     "rate": 4.6,
     "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
-    "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
+    "latestVideo": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
+    "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
 
     "me": [
       "트위치tv", "높은텐션", "리그오브레전드"

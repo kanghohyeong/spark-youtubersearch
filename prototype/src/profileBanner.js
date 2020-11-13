@@ -46,7 +46,7 @@ export default function ProfileBanner(props) {
       
       <div className="button-contain">
         <div className="button-column">
-          <a href={props.link}><button>보러가기</button></a>
+          <a href={props.link} target={"_black"}><button>보러가기</button></a>
           <button >차단목록 추가</button>
         </div>
         <div className="button-column">

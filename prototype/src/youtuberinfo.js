@@ -21,7 +21,7 @@ export default function YoutuberInfo({match}) {
 	return (
 		<div style={style}>
 			<ProfileBanner name={youtuber.name} subscribers={youtuber.subscribers} link={youtuber.link}/>
-			<Videos bestVideo={youtuber.bestVideo} latestVideo={youtuber.latestVideo}/>
+			<Videos bestVideo={youtuber.bestVideo} latestVideo={youtuber.latestVideo} latestVideo2={youtuber.latestVideo2}/>
       <hr width={"100%"}color={"#CFCFCF"}/>
 			<Match rate={youtuber.rate} me={youtuber.me}/>
       <hr width={"100%"}color={"#CFCFCF"}/>
