@@ -1,0 +1,7 @@
+.similar-contain {
+  width: 100%;
+}
+
+.similar-list {
+  display: flex;
+}

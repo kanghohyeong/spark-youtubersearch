@@ -1,0 +1,45 @@
+.review-list {
+  margin: 10px;
+  display: flex;
+  height: fit-content;
+  justify-content: space-around;
+}
+
+.review-box {
+  width: 90%;
+  border: 1px solid #cfcfcf;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.review-who {
+  display: flex;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  height: fit-content;
+  align-items: center;
+  background-color: white;
+  justify-content: space-between;
+}
+
+.review-who p {
+  margin: 5px;
+  font-weight: bolder;
+}
+
+.review-who > p {
+  margin-left: 15px;
+}
+
+.like {
+  display: flex;
+  align-items: center;
+  height: fit-content;
+  margin: 0;
+  margin-right: 20px;
+}
+
+.review-contents {
+  color: dimgray;
+  margin: 5px 10px;
+}
