@@ -127,27 +127,27 @@
     "latestVideo2": "https://www.youtube.com/watch?v=swT0t-DXark",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "실력", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "실력", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "악질","value": 13 },
+      { "text": "챌린저","value": 13 },
+      { "text": "카카오TV","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "오랜 기간 챌린저에 머문 실력자이자 패드리퍼로 유명하다. 카카오 근본. ",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "그냥 같이 게임하는 친구같음 ㅋㅋㅋ 꾸밈없는 느낌이라 너무 좋다. 내 최애 롤 유튜버",
         "like": 157
       }
     ],
@@ -165,27 +165,27 @@
     "latestVideo2": "https://www.youtube.com/watch?v=NmBRpv_B0yI",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "특이한성격", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
       { "text": "PC게임", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "배틀그라운드","value": 13 },
+      { "text": "특이한성격","value": 13 },
+      { "text": "실력","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "종잡을 수 없는 드립과 어휘, 어딘가 이상한 사람 같음. 챌린저 출신인건 안비밀",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "혹시 랄로 아세요?",
         "like": 157
       }
     ],
@@ -203,27 +203,29 @@
     "latestVideo2": "https://www.youtube.com/watch?v=X_KnXHycF2s",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "프로출신", "긍정적인태도"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "긍정적인태도", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "프로출신","value": 13 },
+      { "text": "실력","value": 13 },
+      { "text": "강의","value": 17 },
+      { "text": "허당","value": 17 },
+      { "text": "해설","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "롤 프로팀 CJ 출신 정글러이자 현 해설자 클템의 유튜브. 명성에 맞지 않는 허술한 플레이를 자주 보여준다. 에욱...",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "롤 관련 이슈에 대해 전문가의 시선으로 이야기 해주는 점이 좋은듯. 에욱...",
         "like": 157
       }
     ],
@@ -241,27 +243,28 @@
     "latestVideo2": "https://www.youtube.com/watch?v=D-aEzSWbYIE",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "프로출신", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "프로출신", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "실력","value": 13 },
+      { "text": "허당","value": 13 },
+      { "text": "관전","value": 17 },
+      { "text": "긍정적인태도","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "롤드컵 우승자 출신 정글러이자 미드인 앰비션의 유튜브. 보증된 실력과 다르게 허당끼 있는 말투와 자잘한 실수들이 반전 매력이다. 빠따단 화이팅!",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "다른 유저들의 플레이를 관전하는 롤하이 컨텐츠가 큰 사랑을 받고 있다.",
         "like": 157
       }
     ],
@@ -279,27 +282,27 @@
     "latestVideo2": "https://www.youtube.com/watch?v=2rmE9LMLOgE",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "프로출신", "서포터", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "서포터", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "블리츠크랭크","value": 13 },
+      { "text": "프로출신","value": 13 },
+      { "text": "실력","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "롤 프로팀 cj 출신 서포터. 기가막힌 그랩으로 프로시절부터 신으로 불렸다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "프로 시절 과묵한 이미지로 각인되어 있었으나, 이후 상당한 입담의 소유자라는 것이 밝혀저 큰 인기를 끄는중",
         "like": 157
       }
     ],
@@ -317,27 +320,27 @@
     "latestVideo2": "https://www.youtube.com/watch?v=hs8XD8LiBE8",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "프로출신", "실력", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "프로출신", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "분석","value": 13 },
+      { "text": "미남","value": 13 },
+      { "text": "실력","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "개 잘생겼다. 게임도 잘한다. 말도 잘한다. 안 볼 이유가?",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "프로 출신 다운 실력과 분석력으로 다양한 컨텐츠를 시도하고 있다. 유튜브 대박 기원! 생방송도 재밋음.",
         "like": 157
       }
     ],
@@ -355,27 +358,27 @@
     "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "긍정적인태도", "프로출신", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "프로출신", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "긍정적인태도","value": 13 },
+      { "text": "실력","value": 13 },
+      { "text": "유행어","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "롤 프로 출신 원딜러. 프로 시절에도 전설급이었지만 방송인으로서도 큰 성공을 거두었다. 입담이 너무 뛰어남.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "프레이 그는 신인가?",
         "like": 157
       }
     ],
@@ -385,35 +388,36 @@
 
   {
     "name": "테스터훈 TesterHoon",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "111만명",
+    "link": "https://www.youtube.com/channel/UCUbOogiD-4PKDqaJfSOTC0g",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=4GHaWYio1g4",
+    "latestVideo": "https://www.youtube.com/watch?v=BE7qR4FPjOo",
+    "latestVideo2": "https://www.youtube.com/watch?v=EvVviCmLs60",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "실험적인", "먹방", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
       { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "모바일게임","value": 17 },
+      { "text": "실험적인","value": 13 },
+      { "text": "체험","value": 13 },
+      { "text": "먹방","value": 17 },
+      { "text": "유행어","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "초창기에는 롤 뉴메타 영상을 자주 올렸다. 그후 먹방, 아르바이트 등 다양한 컨텐츠에 도전하였으며 특히 먹방이 좋은 반응을 받았다. 이런 상황은 배추죠. 배스트 시츄에이션",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "최근에는 롤 장인 초대석을 통해 여러 챔피언의 실력자들을 초대해서 합방하는 방송을 많이 한다. 다양한 유행어를 이용하여 상황에 맞는 재밌는 방송을 한다.",
         "like": 157
       }
     ],
@@ -423,35 +427,35 @@
 
   {
     "name": "무지개맛 Rainbow Flavor",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "23.2만명",
+    "link": "https://www.youtube.com/channel/UCcR_wZ0zimC6UT8VO0KcS8Q",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=Ro7xxpLlnL8",
+    "latestVideo": "https://www.youtube.com/watch?v=jzoXEwa4_aI",
+    "latestVideo2": "https://www.youtube.com/watch?v=Lm9_OKqbJ60",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "독특한 편집 스타일", "뉴메타", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "뉴메타", "value": 16 },
+      { "text": "트롤","value": 17 },
+      { "text": "사람등장안함","value": 13 },
+      { "text": "독특한 편집","value": 13 },
+      { "text": "양학","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "보통이면 트롤 소리를 들을 픽과 아이템으로 캐리해버리는 방송. 사람 얼굴이나 목소리는 나오지 않으며 오직 채팅과 편집만 있다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "괴랄한 플레이들만 잘 모아놨다..! 보다보면 너무 웃기다 ㅋㅋ",
         "like": 157
       }
     ],
@@ -461,35 +465,37 @@
 
   {
     "name": "텔론",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "95.8만명",
+    "link": "https://www.youtube.com/user/xordn6579",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=G7xrlUddsaY",
+    "latestVideo": "https://www.youtube.com/watch?v=sgxPrjUZgj8",
+    "latestVideo2": "https://www.youtube.com/watch?v=OMJFmLYtp68",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "뉴메타", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "뉴메타", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
+      { "text": "모바일게임","value": 13 },
       { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "과몰입","value": 17 },
+      { "text": "실험적인","value": 17 }
+
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "본인만의 유행어와 효과음을 바탕으로 특유의 편집 스타일을 만들었다. 본인만의 밈을 확실히 구축한듯",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "조금 과할 정도의 텐션과 실험적인 플레이로 인기가 많다.",
         "like": 157
       }
     ],
@@ -499,35 +505,35 @@
 
   {
     "name": "야옹해 바바 Miaow baba",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "36.5만명",
+    "link": "https://www.youtube.com/user/tpu741",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=7x9w5pLiS3I",
+    "latestVideo": "https://www.youtube.com/watch?v=X5ddNVsv5ws",
+    "latestVideo2": "https://www.youtube.com/watch?v=ertxJdoDe3Y",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "뉴메타", "독특한 편집 스타일", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "뉴메타", "value": 16 },
+      { "text": "트롤","value": 17 },
+      { "text": "관전","value": 13 },
+      { "text": "사람등장안함","value": 13 },
+      { "text": "브론즈탐방","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "주로 브론즈 탐방을 통해 상상 이상으로 못하는 플레이 또는 상상도 못해본 플레이를 보여준다. 롤 예능 방송",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "야옹해 바바 이지만 고양이는 안나옵니다. 사람도 안나오고 전자보이스를 사용해서 웃긴 브론즈 탐방하는 영상을 올립니다.",
         "like": 157
       }
     ],
@@ -537,35 +543,34 @@
 
   {
     "name": "김리븐",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "21만명",
+    "link": "https://www.youtube.com/user/SSF4MANIA",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=Nuyid8ppJQw",
+    "latestVideo": "https://www.youtube.com/watch?v=ib6BbRgzNRY",
+    "latestVideo2": "https://www.youtube.com/watch?v=JBX9DkQN0RM",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "실험적인", "뉴메타", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "뉴메타", "value": 16 },
+      { "text": "사람등장안함","value": 17 },
+      { "text": "실험적인","value": 13 },
+      { "text": "예능롤","value": 13 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "다양한 카메라 시점과 센스있는 컷 편집, 자막 스타일 등 수준급의 편집 능력을 보유하고 있다. 사실 외국에서 더 유명해서 외국 채널을 따로 팠다. 그것이 본채",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "깔끔하고 가볍고 알찬 롤 예능 영상을 찾는다면 바로 김리븐이다아",
         "like": 157
       }
     ],
@@ -575,35 +580,35 @@
 
   {
     "name": "개리형",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "69.9만명",
+    "link": "https://www.youtube.com/channel/UCRpdlPk671uOMiBtf5HtB3Q",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=xRBe3o2h1A0",
+    "latestVideo": "https://www.youtube.com/watch?v=3s7Mj0jSXIg",
+    "latestVideo2": "https://www.youtube.com/watch?v=qlh5MZZFDW8",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "장인", "긍정적인태도", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "장인", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "긍정적인태도","value": 13 },
+      { "text": "오른","value": 13 },
+      { "text": "유행어","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "오른 장인 이다. 탱커 챔피언을 상당히 잘 다룬다. 항상 존댓말을 하며 남을 비방하거나 하는 맨트를 하지 않는다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "오른 하면 개리형. 마인드도 좋다",
         "like": 157
       }
     ],
@@ -613,35 +618,35 @@
 
   {
     "name": "고뇌 [Gotube]",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "11.3만명",
+    "link": "https://www.youtube.com/channel/UCfiarPVYi8ei4vZntToFYGg",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=kXF_ZMpGerQ",
+    "latestVideo": "https://www.youtube.com/watch?v=ebg0z9iNoQ4",
+    "latestVideo2": "https://www.youtube.com/watch?v=ezmkHsYoEVE",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "장인", "뉴메타", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "장인", "value": 16 },
+      { "text": "뉴메타","value": 17 },
+      { "text": "질리언","value": 13 },
+      { "text": "강의","value": 13 },
+      { "text": "정보","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "질리언 장인 고뇌의 유튜브. 실제 컨텐츠는 질리언 보다는 뉴메타 소개, 참교육 영상 등이 주요 컨텐츠이다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "뉴메타, 유행하는 빌드를 쓸만하게 보여주는 것이 좋다.",
         "like": 157
       }
     ],
@@ -651,15 +656,15 @@
 
   {
     "name": "쓰리컨드",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "6.59만명",
+    "link": "https://www.youtube.com/channel/UCHysRIIDpEywTmWl44ZV5Dw",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=Jzo3_20r13E",
+    "latestVideo": "https://www.youtube.com/watch?v=NHzh6AKkc6U",
+    "latestVideo2": "https://www.youtube.com/watch?v=iT1jBSOO9dk",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "장인", "긍정적인태도", "리그오브레전드"
     ],
 
     "characters": [
@@ -674,12 +679,12 @@
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "현실 가붕이 같은 남자. 동네 형같이 든든하고 친근한 남자. 가지고 싶은 남자...",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "감스트의 가렌 선생 쓰리컨드. 가붕이로도 챌린저를 갈 수 있다는 것을 증명한 사나이.",
         "like": 157
       }
     ],
@@ -689,15 +694,15 @@
 
   {
     "name": "스간TV",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "21.7만명",
+    "link": "https://www.youtube.com/user/limsoochul2",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=vsbjFIlfULs",
+    "latestVideo": "https://www.youtube.com/watch?v=BK7gwUYLdvM",
+    "latestVideo2": "https://www.youtube.com/watch?v=fS_6X95mSrQ",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "아프리카tv", "장인", "리그오브레전드"
     ],
 
     "characters": [
@@ -712,12 +717,12 @@
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "장인 중에 근본 그 자체. 다리우스하면 스간. 근본 탑 유저.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "다리우스를 플레이하고 싶다면 무조건 시청하시오.",
         "like": 157
       }
     ],
@@ -727,35 +732,35 @@
 
   {
     "name": "병찬이구른다",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "3.79만명",
+    "link": "https://www.youtube.com/channel/UCQE0YC61bh38NSiywV7TQ0Q",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=7cWA0yECjPU",
+    "latestVideo": "https://www.youtube.com/watch?v=i7joCuyJgc4",
+    "latestVideo2": "https://www.youtube.com/watch?v=zwRcxNnGIho",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "장인", "트위치tv", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "장인", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "귀여움","value": 13 },
+      { "text": "람머스","value": 13 },
+      { "text": "병맛","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "탑 람머스로 챌린저를 찍었던 미친 유저. 어디서도 볼 수 없는 람머스 플레이를 볼 수 있다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "한때 트롤이라고도 알려졌지만 진짜 진지하게 탑 람머스를 사랑하는 놈이었다...",
         "like": 157
       }
     ],
@@ -765,35 +770,35 @@
 
   {
     "name": "PAKA",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "10.1만명",
+    "link": "https://www.youtube.com/channel/UCJpAwvQaZyCI5spAz7tipGA",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=eclvlXNWJa0",
+    "latestVideo": "https://www.youtube.com/watch?v=yckhHphFDI4",
+    "latestVideo2": "https://www.youtube.com/watch?v=RCk0AlzGHhM",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "긍정적인태도", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "긍정적인태도", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "실력","value": 13 },
+      { "text": "카카오TV","value": 13 },
+      { "text": "얼굴 안 나옴","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "노캠 노마이크로도 카카오tv 시청자 1등을 했을만큼 방송 천재. 그 악랄한 팟수들 사이에서도 클린방송을 했던 사나이.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "차분한 실력 롤 영상을 보고 싶다면 PAKA.",
         "like": 157
       }
     ],
@@ -803,35 +808,35 @@
 
   {
     "name": "떡호떡",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "30.3만명",
+    "link": "https://www.youtube.com/user/ororaoo",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=JqSymLVwlIk",
+    "latestVideo": "https://www.youtube.com/watch?v=niMcNHXyB7Y",
+    "latestVideo2": "https://www.youtube.com/watch?v=fuo9tir-lnk",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "실험적인", "긍정적인태도", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "실험적인", "value": 16 },
+      { "text": "긍정적인태도","value": 17 },
+      { "text": "체험","value": 13 },
+      { "text": "트위치tv","value": 13 },
+      { "text": "정보","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "신챔프 소개, 요즘 유행하는 탬트리 해보기 등 롤에서 현재 핫한 것들을 직접 플레이 하는 유튜버. 최신 이슈를 가볍고 편하게 보고싶다면 추천",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "롤 이슈 유튜버. 너무 무겁지 않아서 좋다.",
         "like": 157
       }
     ],
@@ -841,35 +846,35 @@
 
   {
     "name": "해물파전TV",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "38.9만명",
+    "link": "https://www.youtube.com/user/dlgksquf159",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=kwcLufK_ofY",
+    "latestVideo": "https://www.youtube.com/watch?v=qKxfsynGM20",
+    "latestVideo2": "https://www.youtube.com/watch?v=bhXYNRPd8h8",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "아프리카tv", "긍정적인태도", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "긍정적인태도", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "피즈","value": 13 },
+      { "text": "PC게임","value": 13 },
+      { "text": "얼굴 안 나옴","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "긍정롤의 창시자. 모두가 자극적인 방송을 할 때 긍정으로도 재미있을 수 있다는 것을 증명하였다. 방송 10년차의 배태랑 BJ",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "긍정롤 너무 좋아요! 성격이랑 말투랑은 달리 실제로는 엄청난 근육질이라는 소문이..",
         "like": 157
       }
     ],
@@ -879,35 +884,35 @@
 
   {
     "name": "T1",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "67.9만명",
+    "link": "https://www.youtube.com/user/SKTTeam1st",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=VvKGhQ4zOXU",
+    "latestVideo": "https://www.youtube.com/watch?v=wVcBbZS4y1g",
+    "latestVideo2": "https://www.youtube.com/watch?v=yLcxzl1nADM",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "공식", "프로출신", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "공식채널", "value": 16 },
+      { "text": "프로팀","value": 17 },
+      { "text": "다큐","value": 13 },
+      { "text": "브이로그","value": 13 },
+      { "text": "실력","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "롤 프로팀 SKT T1의 공식 유튜브 채널. 더 이상 설명이 필요한가?",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "T1 의 공식 채널. T1 맴버들의 꽁냥꽁냥 모습을 볼 수 있다.",
         "like": 157
       }
     ],
@@ -917,35 +922,35 @@
 
   {
     "name": "괴물쥐 유튜브",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "74.3만명",
+    "link": "https://www.youtube.com/channel/UCDBAVzfX3yZ1hah0FHnOoaA",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=xmjNI8apeFk",
+    "latestVideo": "https://www.youtube.com/watch?v=p1q_0lsYqLs",
+    "latestVideo2": "https://www.youtube.com/watch?v=svw4eEzYHTE",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "원딜", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "원딜", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "실력","value": 13 },
+      { "text": "유행어","value": 13 },
+      { "text": "PC게임","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "수많은 유행어로 자신만의 밈을 만들어내는 방송인이다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "과거 매운맛으로 유명했으나 최근에는 많이 순해졌다. 개인적으론 예전이 더 좋았...",
         "like": 157
       }
     ],
@@ -955,35 +960,35 @@
 
   {
     "name": "디스 이즈 샤이",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "16.5만명",
+    "link": "https://www.youtube.com/channel/UCBo3r_IAd1EiFGe1x7GgTLw",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=AAgOSW5MekU",
+    "latestVideo": "https://www.youtube.com/watch?v=JomNYKEPGMs",
+    "latestVideo2": "https://www.youtube.com/watch?v=HBnTgqnX8NA",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "프로출신", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "프로 출신", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "긍정적인태도","value": 13 },
+      { "text": "뉴메타","value": 13 },
+      { "text": "관전","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "딱 봐도 착한 청년. 장인 관전, 시청자 관전 등 다양한 관전 컨텐츠를 프로의 시선으로 재미있게 소개한다. 게임도 재미있게 잘하는 편.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "빨리 전역하고 돌아오시길 바랍니다. 디스 이즈 샤이!!!!!",
         "like": 157
       }
     ],
@@ -993,35 +998,35 @@
 
   {
     "name": "현솔",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "10.2만명",
+    "link": "https://www.youtube.com/channel/UCEWkdaR_6g6giiy8_vI6fmw",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=-VUWjNcB3MU",
+    "latestVideo": "https://www.youtube.com/watch?v=rTpFJKxM5n8",
+    "latestVideo2": "https://www.youtube.com/watch?v=BXhRnatmfqg",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "트위치tv", "장인", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
+      { "text": "장인", "value": 16 },
       { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "아우렐리온 솔","value": 13 },
+      { "text": "긍정적인태도","value": 13 },
+      { "text": "개리형","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "아우렐리온 솔 장인 유튜버이다. 물론 아우렐리온 솔 뿐만 아니라 다양한 챔피언을 수준급으로 다룬다. 다른 장인 유저들과 합방이 잦은 편.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "아우렐리온 솔 그 자체. 사람도 착해서 부담없이 보기 좋다.",
         "like": 157
       }
     ],
@@ -1031,35 +1036,35 @@
 
   {
     "name": "Official Dopa",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "58.1만명",
+    "link": "https://www.youtube.com/channel/UCt15X5eHLwyP8PpNtQTkuDQ",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=Pyfo4uqzmtw",
+    "latestVideo": "https://www.youtube.com/watch?v=Svc_FviZO9s",
+    "latestVideo2": "https://www.youtube.com/watch?v=BaGoQc-vyIw",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "아프리카tv", "실력", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "챌린저 출신", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "미드","value": 13 },
+      { "text": "트위스티드 페이트","value": 13 },
+      { "text": "오리아나","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "중국 서버 1위, 한국 서버 1위 달성의 엄청난 실력을 가진 미드라이너. 말하는 그대로 게임이 진행되는 마법을 보여준다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "압도적인 실력과 중독성 짙은 말투, 은근 허당같은 행동을 보여주는 당신은 대체..?",
         "like": 157
       }
     ],
@@ -1069,35 +1074,35 @@
 
   {
     "name": "T1 Faker",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "122만명",
+    "link": "https://www.youtube.com/channel/UCpJw2H9KKqwCCGQKRh1Bf2w",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=j5EDcRTYhP8",
+    "latestVideo": "https://www.youtube.com/watch?v=l3wTEqtm1NA",
+    "latestVideo2": "https://www.youtube.com/watch?v=Km7nA3SoWw8",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "실력", "프로출신", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "프로출신", "value": 16 },
+      { "text": "실력","value": 17 },
+      { "text": "강의","value": 13 },
+      { "text": "챌린저","value": 13 },
+      { "text": "미드","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "롤계의 전설이자 레전드 페이커의 유튜브 채널.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "전설적인 미드라이너 페이커. 폼은 일시적이지만 클라스는 영원하다...",
         "like": 157
       }
     ],
@@ -1107,35 +1112,35 @@
 
   {
     "name": "백크 Baekk",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "47.3만명",
+    "link": "https://www.youtube.com/channel/UCugNO83_V7xZLzCsjpABGeg",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=rXjJqq1AuvQ",
+    "latestVideo": "https://www.youtube.com/watch?v=28xMPtJ_z5Q",
+    "latestVideo2": "https://www.youtube.com/watch?v=dWyLmTzEXzM",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "아프리카tv", "실력", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "실력", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "합방","value": 13 },
+      { "text": "긍정적인태도","value": 13 },
+      { "text": "챌린저 출신","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "챌린저 출신이며 미드를 굉장히 잘한다. 뛰어난 실력과 특유의 입담, 리액션으로 인기가 많다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "아프리카tv의 오래된 롤 실력자.",
         "like": 157
       }
     ],
@@ -1145,35 +1150,35 @@
 
   {
     "name": "튜브김민교",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "32.5만명",
+    "link": "https://www.youtube.com/channel/UCkgDHJNdiidw67LAAVooc1A",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=UubUGelYJCU",
+    "latestVideo": "https://www.youtube.com/watch?v=f4fZiTtSo9k",
+    "latestVideo2": "https://www.youtube.com/watch?v=nDJR9LKJu2A",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "아프리카tv", "높은텐션", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
+      { "text": "높은텐션", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "브이로그","value": 13 },
+      { "text": "보이는라디오","value": 13 },
       { "text": "과몰입","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "아프리카 롤통령 김민교. 철없는 놈처럼 보이지만 책임감있는 태도와 의젓한 모습을 가진 외유내강의 사나이.. 너란남자..가지고 싶진...않ㄷ.ㅏ..",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "얘는 확실히 얘만의 매력이 있음. 분명히 병맛인데 실력도 있고 걍 보셈. 롤통령인 이유가 있음",
         "like": 157
       }
     ],
@@ -1183,35 +1188,35 @@
 
   {
     "name": "꿀탱탱",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "53.1만명",
+    "link": "https://www.youtube.com/channel/UCAJAJ9bAvfjFLRrsqeumJIA",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=gRFg5YdeHG0",
+    "latestVideo": "https://www.youtube.com/watch?v=IrjSeuboHP8",
+    "latestVideo2": "https://www.youtube.com/watch?v=J1VI7IcAcSY",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "아프리카tv", "실력", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
       { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "아프리카TV","value": 17 },
+      { "text": "어몽어스","value": 13 },
+      { "text": "장인","value": 13 },
+      { "text": "높은텐션","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "리븐 장인 출신 아프리카 bj이다. 상대를 압살하는 플레이를 즐겨하며 팩트폭력을 즐긴다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "다소 거친 입담과 시크한 태도, 허세 넘치는 말투가 매력적.",
         "like": 157
       }
     ],
@@ -1221,35 +1226,35 @@
 
   {
     "name": "저라뎃 JUSTLIKETHAT",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "58.4만명",
+    "link": "https://www.youtube.com/channel/UC1dG3vI9FfHnH3YgyeKUz_A",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=ZuGED0WPPKs",
+    "latestVideo": "https://www.youtube.com/watch?v=_6u0f8VSamI",
+    "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "아프리카tv", "실력", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "챌린저", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "강의","value": 13 },
+      { "text": "실력","value": 13 },
+      { "text": "험한말","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "챌린저 출신 정글러이다. 허세 가득한 입담과 뛰어난 실력으로 많은 인기를 끌고 있다.",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "아프리카 TV 최고 정글러. 좀 싸가지없어 보이긴 하는데 실력만큼은 확실한듯",
         "like": 157
       }
     ],
@@ -1259,35 +1264,35 @@
 
   {
     "name": "김레인",
-    "subscribers": "53.6만명",
-    "link": "https://www.youtube.com/channel/UCSzHok6X5qXEO7cjvVnE62g",
+    "subscribers": "38.4만명",
+    "link": "https://www.youtube.com/channel/UCj9LQu5-mfrf6imcyrnZfug",
     "rate": 4.6,
-    "bestVideo": "https://www.youtube.com/watch?v=wk_mRdEYgpU",
-    "latestVideo": "https://www.youtube.com/watch?v=-uVocM3Mcac",
-    "latestVideo2": "https://www.youtube.com/watch?v=rlyIbSqCVFw",
+    "bestVideo": "https://www.youtube.com/watch?v=eNGIEJ5ZkPA",
+    "latestVideo": "https://www.youtube.com/watch?v=z10yX3z-l7k",
+    "latestVideo2": "https://www.youtube.com/watch?v=4BZ6SIeku6g",
 
     "me": [
-      "트위치tv", "높은텐션", "리그오브레전드"
+      "아프리카tv", "미녀", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "미녀", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "브이로그","value": 13 },
+      { "text": "금똥왁왁","value": 13 },
+      { "text": "합방","value": 17 }
     ],
 
     "comments": [
       {
         "name": "말강님",
-        "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+        "text": "아프리카tv의 근본 롤 bj. 예쁜 얼굴에 시원시원한 성격으로 인기가 많다. 최근에는 금똥왁왁과 연애중",
         "like": 336
       },
       {
         "name": "여눙님",
-        "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+        "text": "그냥 롤하는 아프리카 tv 여자 bj",
         "like": 157
       }
     ],
