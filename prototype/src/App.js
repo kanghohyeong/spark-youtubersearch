@@ -33,9 +33,9 @@ function App() {
   if(didSurvey) {
     ret = (
       <div>
-        <Route path="/" component={Banner}/>
-        <Route exact path="/" component={Home}/>
-        <Route path="/youtuber/:name" component={YoutuberInfo}/>
+        <Route path="/spark-youtubersearch" component={Banner}/>
+        <Route exact path="/spark-youtubersearch" component={Home}/>
+        <Route path="/spark-youtubersearch/youtuber/:name" component={YoutuberInfo}/>
       </div>
     )
   } else {

@@ -10,13 +10,19 @@ export default function Profile(props) {
     flexDirection: "column",
     alignItems: "center"
   }
+
+  const address = `/spark-youtubersearch/youtuber/${props.name}`;
   
 	return (
 		<div className="profile-box">
-      <a href={`/youtuber/${props.name}`}>
+      <Link to={address}>
         <Avatar size={200} round={true} src={process.env.PUBLIC_URL + `/img/${props.name}.jpg`}/>
         <h3>{props.name}</h3>
-      </a>
+      </Link>
+      {/* <a href={`/spark-youtubersearch/youtuber/${props.name}`}>
+        <Avatar size={200} round={true} src={process.env.PUBLIC_URL + `/img/${props.name}.jpg`}/>
+        <h3>{props.name}</h3>
+      </a> */}
 		</div>
 	);
 }

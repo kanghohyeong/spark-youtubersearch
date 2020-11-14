@@ -14,7 +14,7 @@ export default function Card(props) {
   const characters = props.characters.map(it => <p>{it}</p>)
 
   return(
-    <Link className="card-link" to={`/youtuber/${props.name}`}>
+    <Link className="card-link" to={`/spark-youtubersearch/youtuber/${props.name}`}>
       <div className="card">
         <div className="name-img">
         <Avatar src={process.env.PUBLIC_URL + `/img/${props.name}.jpg`} round={true} size="80"/>
