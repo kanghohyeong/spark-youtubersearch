@@ -1,20 +1,7 @@
-import React, {Component} from 'react';
+import React from 'react';
 import './videos.css'
 
-
 export default function Videos(props) {
-  // const style = {
-  //   backgroundColor: "#FFF",
-  //   display: "flex",
-  //   justifyContent: "space-around"
-  // }
-
-  // const itemStyle = {
-  //   display: "flex",
-  //   flexDirection: "column",
-  //   margin: 20,
-  // }
-
   const best = changeToImg(props.bestVideo)
   const latest = changeToImg(props.latestVideo)
   const latest2 = changeToImg(props.latestVideo2)

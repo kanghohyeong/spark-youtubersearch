@@ -1,26 +1,9 @@
-import React, {useState, useEffect, Component} from 'react';
-import { Link } from 'react-router-dom';
+import React, {useState} from 'react';
 import Tab from './tab';
 import './Home.css'
 import ReactModal from 'react-modal'
 
 export default function Home() {
-
-  // const style = {
-  //   width: "100%",
-  //   display: "flex",
-  //   flexDirection: "column",
-  //   alignItems: "center",
-  //   padding: 5
-  // }
-
-  // const welcomeStyle = {
-  //   backgroundColor: "#384259",
-  //   padding: 10,
-  //   margin: 10,
-  //   textAlign: "center",
-  //   color: "white"
-  // }
   const [isLoggedIn, setIsLoggedIn] = useState(false)
   const [openModal, setOpenModal] = useState(false)
   

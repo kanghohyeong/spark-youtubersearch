@@ -1,6 +1,5 @@
-import React, {useState, useEffect, Component} from 'react';
+import React, {useState, useEffect} from 'react';
 import ReactModal from 'react-modal'
-import { Redirect } from 'react-router-dom';
 import './startpage.css';
 
 
@@ -43,17 +42,6 @@ export default function Start() {
   const handleChange = (target, setTarget, idx) => {
     setTarget(target.map((it, i) => i === idx? !target[idx] : target[i]))
   }
-
-
-  // Modal 다룰때 사용하는 style 이렇게 써야됨
-  // const style= {
-  //   content: {
-  //     top: '0%',
-  //     left: '50%',
-  //     bottom: 'auto',
-  //     right: 'auto'
-  //   }
-  // }
 
   return(
     <div className="startpage-contain">

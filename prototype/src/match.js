@@ -1,13 +1,7 @@
 import React from 'react';
 import './match.css'
 
-export default function Match(props) {
-
-  // const style = {
-  //   display: "flex",
-  //   alignItems: "center"
-  // }
-  
+export default function Match(props) {  
   const squareColor = {
     margin: 10,
     width: 100,
@@ -28,13 +22,8 @@ export default function Match(props) {
     
   }
 
-  // const boxStyle = {
-  //   backgroundColor: "#384259",
-  //   borderRadius: 20,
-  //   padding: 10,
-  // }
-
   const me = props.me.map(it => mapWord.get(it))
+  
 	return (
 		<div className="match-contain">
       <h2>당신과의 궁합</h2>

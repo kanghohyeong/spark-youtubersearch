@@ -1,4 +1,4 @@
-import React, {useState, useEffect, Component} from 'react';
+import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
 import ReactModal from 'react-modal'
 import './banner.css';

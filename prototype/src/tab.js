@@ -1,23 +1,10 @@
-import React, {useState, useEffect, Component} from 'react';
-import { Link } from 'react-router-dom';
+import React, {useState} from 'react';
 import YoutuberList from './youtuberList'
 import './tab.css'
 
 const category = ["게임", "음악", "요리", "브이로그", "패션"]
 
-
 export default function Tab(props) {
-
-  // const style = {
-  //   width: "500",
-  //   justifyContent: "center",
-  //   padding: 5
-  // }
-
-  const tabStyle = {
-    display: "flex",
-  }
-
   const tabItemStyle = {
     flexGrow: 1,
     backgroundColor:" white"

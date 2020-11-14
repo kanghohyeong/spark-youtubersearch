@@ -1,32 +1,9 @@
 import Avatar from 'react-avatar';
 import { MdThumbUp } from "react-icons/md";
-import React, {useState, useEffect, Component} from 'react';
+import React from 'react';
 import './review.css';
 
-
 export default function Review(props) {
-  // const style = {
-  //   display: "flex",
-  // }
-
-  // const nameStyle = {
-  //   color: "#C7F464",
-  //   fontFamily: "sans-serif"
-  // }
-
-
-  // const blockStyle = {
-  //   width: 400,
-  //   border: "1px solid #CFCFCF",
-  //   backgroundColor: "white",
-  //   borderRadius: 10
-  // }
-
-  // const likeStyle = {
-  //   display: "flex",
-  //   alignItems: "center"
-  // }
-  
   return(
     <div className="review-list">
       <Avatar src={process.env.PUBLIC_URL + `/img/guest.png`} round={true} size={100}/>

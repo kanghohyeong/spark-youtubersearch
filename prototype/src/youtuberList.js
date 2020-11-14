@@ -1,19 +1,10 @@
-import React, {useState, useEffect, Component} from 'react';
-import { Link } from 'react-router-dom';
+import React from 'react';
 import data from './data/listData.json'
 import youtuberData from './data/youtuberData'
 import CardList from './cardList'
 import './youtuberList.css'
 
-
 export default function YoutuberList(props) {
-
-  const style = {
-    width: "500",
-    justifyContent: "center",
-    padding: 5
-  }
-
   const category = props.category
   const item = props.isLoggedIn? data.category : data.random
   const current = item.filter((it) => it.name === category)[0]
@@ -32,7 +23,7 @@ export default function YoutuberList(props) {
     })
   })
 
-  const card = info.map(it => <CardList title={it.title} name={it.names}/>)
+  const card = info.map(it => <CardList title={it.title} name={it.names} color={props.color}/>)
 
   return(
     <div>

@@ -1,4 +1,4 @@
-import React, {useState, useEffect, Component} from 'react';
+import React from 'react';
 import { Route } from 'react-router-dom';
 import YoutuberInfo from './youtuberinfo'
 import Banner from './banner'

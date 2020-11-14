@@ -1,13 +1,8 @@
-import React, {Component} from 'react';
+import React from 'react';
 import ReactWordcloud from 'react-wordcloud';
 import './wordCloud.css';
 
 export default function WordCloud(props) {
-  // const style = {
-  //   display: "flex",
-  //   alignItems: "center"
-  // }
-
   const options = {
     colors: ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b"],
     enableTooltip: false,
@@ -24,16 +19,10 @@ export default function WordCloud(props) {
     transitionDuration: 1000,
   };
 
-  // const cloudStyle = {
-  //   width: 600,
-  //   height: 400,
-  // }
-
   return(
     <div className="wordcloud-contain">
       <h2>유레코 분석결과</h2>
       <div className="wordcloud"><ReactWordcloud  options={options} words={props.characters}/></div>
     </div>
   )
-
 }
