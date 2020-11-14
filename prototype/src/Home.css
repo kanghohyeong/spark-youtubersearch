@@ -30,6 +30,30 @@
   margin-bottom: 5px;
 }
 
-.btn:hover{
+.btn:hover {
   background-color: #33a09c;
+}
+
+.reco-box-start {
+  width: 100%;
+  margin-top: 20px;
+  padding: 5px;
+  background-color: #f73859;
+  text-align: center;
+  color: white;
+}
+
+.reco-box-start h2 {
+  font-size: 20px;
+}
+
+.reco-box-start button {
+  background-color: #7ac7c4;
+  border: none;
+  color: white;
+
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  margin-bottom: 5px;
 }
