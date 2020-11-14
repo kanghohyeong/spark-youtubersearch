@@ -15,7 +15,8 @@ export default function YoutuberList(props) {
   }
 
   const category = props.category
-  const current = data.category.filter((it) => it.name === category)[0]
+  const item = props.isLoggedIn? data.category : data.random
+  const current = item.filter((it) => it.name === category)[0]
   const info = current.query.map((it, idx) => {
     return({
       title: it,

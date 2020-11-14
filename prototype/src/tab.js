@@ -6,7 +6,7 @@ import './tab.css'
 const category = ["게임", "음악", "요리", "브이로그", "패션"]
 
 
-export default function Tab() {
+export default function Tab(props) {
 
   // const style = {
   //   width: "500",
@@ -49,7 +49,7 @@ export default function Tab() {
           })}
         </div>
       </div>
-      <YoutuberList category={category[tabIdx]}/>
+      <YoutuberList category={category[tabIdx]} isLoggedIn={props.isLoggedIn}/>
     </div>
   )
 }
