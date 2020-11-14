@@ -95,7 +95,12 @@ export default function Start() {
       <ReactModal className="start-modal" isOpen={isLastPage} contentLabel="마지막안내">
       <button onClick={()=>{setIsLastPage(false)}}>X</button>
       <h2>테스트 종료시에는 반드시 <span>'종료하기'</span> 버튼을 누르고 설문조사를 해주세요! 서비스 개선에 큰 도움이 됩니다.감사합니다!</h2>
-        <button onClick={submit}>완료</button>
+      <p> @ 사용하신 아이디는 테스트 종료 후 설문조사를 위해 기억해주세요 @ </p>
+      <p> @ 본 테스트에서는 PC환경에 최적화되어 있습니다. @ </p>
+      <p> @ 본 테스트에서는 게임 카테고리만 이용 가능합니다. @ </p>
+      <p> @ 본 테스트에서는 검색 기능이 비활성화 되어 있습니다. @ </p>
+      <p> @ 본 테스트에서는 서비스 사용자가 '리그오브레전드' 유튜버를 많이 보는 사람이라고 가정합니다. @ </p>
+        <button onClick={submit}>테스트 시작</button>
       </ReactModal>
 
     </div>
