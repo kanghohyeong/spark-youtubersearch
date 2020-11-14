@@ -669,11 +669,11 @@
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "장인", "value": 16 },
+      { "text": "가렌","value": 17 },
+      { "text": "첼린저","value": 13 },
+      { "text": "아프리카TV","value": 13 },
+      { "text": "실력","value": 17 }
     ],
 
     "comments": [
@@ -707,11 +707,10 @@
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
-      { "text": "로스트아크","value": 13 },
-      { "text": "높은텐션","value": 13 },
-      { "text": "과몰입","value": 17 }
+      { "text": "장인", "value": 16 },
+      { "text": "아프리카TV","value": 17 },
+      { "text": "다리우스","value": 13 },
+      { "text": "실력","value": 13 }
     ],
 
     "comments": [
