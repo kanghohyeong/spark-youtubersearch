@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/spark-youtubersearch/static/css/main.5e1dbe0f.chunk.css",
-    "main.js": "/spark-youtubersearch/static/js/main.b46ba0ca.chunk.js",
-    "main.js.map": "/spark-youtubersearch/static/js/main.b46ba0ca.chunk.js.map",
+    "main.js": "/spark-youtubersearch/static/js/main.ba6358aa.chunk.js",
+    "main.js.map": "/spark-youtubersearch/static/js/main.ba6358aa.chunk.js.map",
     "runtime-main.js": "/spark-youtubersearch/static/js/runtime-main.cb7257ba.js",
     "runtime-main.js.map": "/spark-youtubersearch/static/js/runtime-main.cb7257ba.js.map",
-    "static/js/2.a0fa928d.chunk.js": "/spark-youtubersearch/static/js/2.a0fa928d.chunk.js",
-    "static/js/2.a0fa928d.chunk.js.map": "/spark-youtubersearch/static/js/2.a0fa928d.chunk.js.map",
+    "static/js/2.e8c76704.chunk.js": "/spark-youtubersearch/static/js/2.e8c76704.chunk.js",
+    "static/js/2.e8c76704.chunk.js.map": "/spark-youtubersearch/static/js/2.e8c76704.chunk.js.map",
     "index.html": "/spark-youtubersearch/index.html",
     "static/css/main.5e1dbe0f.chunk.css.map": "/spark-youtubersearch/static/css/main.5e1dbe0f.chunk.css.map",
-    "static/js/2.a0fa928d.chunk.js.LICENSE.txt": "/spark-youtubersearch/static/js/2.a0fa928d.chunk.js.LICENSE.txt"
+    "static/js/2.e8c76704.chunk.js.LICENSE.txt": "/spark-youtubersearch/static/js/2.e8c76704.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb7257ba.js",
-    "static/js/2.a0fa928d.chunk.js",
+    "static/js/2.e8c76704.chunk.js",
     "static/css/main.5e1dbe0f.chunk.css",
-    "static/js/main.b46ba0ca.chunk.js"
+    "static/js/main.ba6358aa.chunk.js"
   ]
 }
