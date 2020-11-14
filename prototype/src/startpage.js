@@ -58,7 +58,7 @@ export default function Start() {
   return(
     <div className="startpage-contain">
       <div className="top-title">
-        <p>당신의 취향에 맞는 유튜버 서비스</p>
+        <p>당신의 취향에 맞는 유튜버 추천 서비스</p>
         <h1>YouReco!</h1>
       </div>
       
