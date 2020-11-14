@@ -34,16 +34,22 @@ export default function ProfileBanner(props) {
       </div>
 
       <ReactModal className="modal" isOpen={openRating} onRequestClose={() => setOpenRating(false)}>
-        <Rating
-          stop={5}
-          emptySymbol="fa fa-star-o fa-2x"
-          fullSymbol="fa fa-star fa-2x low"
-          style={
-            {color: "#FDCC0D"}
-          }
-        />
-        <sapn>한줄평</sapn>
-        <textarea/>
+        <div className="rating-star">
+          <span>별점 </span>
+          <Rating
+            stop={5}
+            emptySymbol="fa fa-star-o fa-2x"
+            fullSymbol="fa fa-star fa-2x low"
+            style={
+              {color: "#FDCC0D"}
+            }
+          />
+        </div>
+        <div className="rating-text">
+          <div>이 유튜버에 대해 평가해주세요.</div>
+          <textarea/>
+        </div>
+        
         <button onClick={() => setOpenRating(false)}>확인</button>
       </ReactModal>
     </div>
