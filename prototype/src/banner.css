@@ -34,3 +34,17 @@
   width: 30%;
   height: 30px;
 }
+
+.end-modal {
+  text-align: center;
+  width: 50%;
+  float: right;
+  margin: 30px;
+  padding: 20px;
+}
+
+.end-modal > button {
+  width: 200px;
+  height: 50px;
+  margin: 0 30px;
+}

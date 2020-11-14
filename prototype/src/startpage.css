@@ -34,13 +34,19 @@
   box-shadow: 1px 1px 3px black;
 }
 
-.gender > span:nth-child(even) {
+.gender > div {
+  display: inline-block;
   margin-left: 50%;
+  background-color: white;
+  padding-bottom: 10px;
 }
 
-.gender > span:nth-child(even) > span {
-  margin: 0 10px;
+.id-holder {
+  vertical-align: middle;
+  width: 200px;
+  height: 30px;
 }
+
 .cate-box {
   display: block;
 
@@ -67,4 +73,16 @@
   border: none;
   border-radius: 10px;
   font-size: 30px;
+}
+
+.start-modal {
+  text-align: center;
+  width: 50%;
+  float: right;
+  margin: 30px;
+  padding: 20px;
+}
+
+.start-modal span {
+  color: #f73859;
 }

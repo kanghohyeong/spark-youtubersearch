@@ -1,5 +1,6 @@
 import React, {useState, useEffect, Component} from 'react';
 import ReactModal from 'react-modal'
+import { Redirect } from 'react-router-dom';
 import './startpage.css';
 
 
@@ -45,14 +46,14 @@ export default function Start() {
 
 
   // Modal 다룰때 사용하는 style 이렇게 써야됨
-  const style= {
-    content: {
-      top: '0%',
-      left: '50%',
-      bottom: 'auto',
-      right: 'auto'
-    }
-  }
+  // const style= {
+  //   content: {
+  //     top: '0%',
+  //     left: '50%',
+  //     bottom: 'auto',
+  //     right: 'auto'
+  //   }
+  // }
 
   return(
     <div className="startpage-contain">
@@ -63,16 +64,16 @@ export default function Start() {
       
       <div className="int-contain">
         <label className="gender" for="gender"><span>아이디</span>
-          <span>
-            <span><input type='text' name='name' value={name} onChange={(e)=>setName(e.target.value)}/></span>
-          </span>
+          <div>
+            <input className="id-holder" type='text' placeholder='Enter here(Dont Forget!)' name='name' value={name} onChange={(e)=>setName(e.target.value)}/>
+          </div>
         </label>
 
         <label className="gender" for="gender"><span>성별</span>
-          <span>
+          <div>
             <span><input type='radio' name='gender' value='male' checked={gender === "남성"} onChange={()=>setGender("남성")}/>남성</span>
             <span><input type='radio' name='gender' value='female' checked={gender === "여성"} onChange={()=>setGender("여성")}/>여성</span>
-          </span>
+          </div>
         </label>
         <br/>
 
@@ -91,9 +92,9 @@ export default function Start() {
         <button className="start-button" type="button" onClick={() => setIsLastPage(true)} disabled={disabled} >시작하기</button>
       </div>
 
-      <ReactModal isOpen={isLastPage} contentLabel="마지막안내" style={style}>
+      <ReactModal className="start-modal" isOpen={isLastPage} contentLabel="마지막안내">
       <button onClick={()=>{setIsLastPage(false)}}>X</button>
-      <h2>테스트 종료시에는반드시 '종료하기' 버튼을 누르고설문조사를 해주세요!서비스 개선에 큰 도움이 됩니다.감사합니다!</h2>
+      <h2>테스트 종료시에는 반드시 <span>'종료하기'</span> 버튼을 누르고 설문조사를 해주세요! 서비스 개선에 큰 도움이 됩니다.감사합니다!</h2>
         <button onClick={submit}>완료</button>
       </ReactModal>
 
