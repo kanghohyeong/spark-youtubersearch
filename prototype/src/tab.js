@@ -31,7 +31,7 @@ export default function Tab(props) {
         <div className="tab-box">
           {category.map((name, idx) => {
             return (
-              <button onClick={() => setTabIdx(idx)} style={tabIdx === idx? clickStyle : tabItemStyle} disabled={name != "게임"}>{name}</button>
+              <button onClick={() => setTabIdx(idx)} style={tabIdx === idx? clickStyle : tabItemStyle} disabled={name !== "게임"}>{name}</button>
             );
           })}
         </div>

@@ -6,6 +6,7 @@ import WordCloud from './wordCloud';
 import data from './data/youtuberData.json';
 import Similar from './similar';
 import Match from './match'
+
 export default function YoutuberInfo({match}) {
 
   const style = {

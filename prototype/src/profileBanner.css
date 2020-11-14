@@ -41,3 +41,19 @@
 .button-column button:hover {
   opacity: 1;
 }
+
+.button-column > .not-allowed {
+  cursor: not-allowed;
+}
+.button-column > .not-allowed:hover {
+  opacity: 0.5;
+}
+
+.modal {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) !important;
+}

@@ -1,11 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Avatar from 'react-avatar';
 import './profileBanner.css'
+import Rating from 'react-rating'
+import ReactModal from 'react-modal'
 
 export default function ProfileBanner(props) {
   const avatarStyle = {
     margin: 10,
   }
+
+  const [openRating, setOpenRating] = useState(false)
 
   return(
     <div className="profile-contain" >
@@ -20,13 +24,28 @@ export default function ProfileBanner(props) {
       <div className="button-contain">
         <div className="button-column">
           <a href={props.link} target={"_black"}><button>보러가기</button></a>
-          <button >차단목록 추가</button>
+          <button className="not-allowed">차단목록 추가</button>
         </div>
         <div className="button-column">
-          <button >관심목록 추가</button>
-          <button >평가하기</button>
+          <button className="not-allowed">관심목록 추가</button>
+          <button onClick={() => setOpenRating(true)}>평가하기</button>
         </div>
+
       </div>
+
+      <ReactModal className="modal" isOpen={openRating} onRequestClose={() => setOpenRating(false)}>
+        <Rating
+          stop={5}
+          emptySymbol="fa fa-star-o fa-2x"
+          fullSymbol="fa fa-star fa-2x low"
+          style={
+            {color: "#FDCC0D"}
+          }
+        />
+        <sapn>한줄평</sapn>
+        <textarea/>
+        <button onClick={() => setOpenRating(false)}>확인</button>
+      </ReactModal>
     </div>
   )
 

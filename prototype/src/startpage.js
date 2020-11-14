@@ -25,13 +25,13 @@ export default function Start() {
   const submit = () => {
     const usualList = []
     usual.forEach((it, idx) => {if(it) usualList.push(category[idx])})
-    if(usual[usual.length - 1] && usualEtc != "") {
+    if(usual[usual.length - 1] && usualEtc !== "") {
       usualList.pop()
       usualList.push(usualEtc)
     }
     const wantList = []
     want.forEach((it, idx) => {if(it) wantList.push(category[idx])})
-    if(want[want.length - 1] && wantEtc != "") {
+    if(want[want.length - 1] && wantEtc !== "") {
       wantList.pop()
       wantList.push(wantEtc)
     }

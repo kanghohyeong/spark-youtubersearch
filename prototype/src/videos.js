@@ -10,13 +10,13 @@ export default function Videos(props) {
     <div className="video-contain">
       <div className="video">
         <h3>최고 인기 영상</h3>
-        <a className="video_item" href={props.bestVideo} target={'_blank'}><img src={best}/></a>
+        <a className="video_item" href={props.bestVideo} rel="noreferrer" target={'_blank'}><img alt={"유튜브 비디오"} src={best}/></a>
       </div>
       <div className="video">
         <h3>최근 업로드</h3>
         <div className="latestvideos-box">
-          <a className="video_item" href={props.latestVideo} target={'_blank'}><img src={latest}/></a>
-          <a className="video_item" href={props.latestVideo2} target={'_blank'}><img src={latest2}/></a>
+          <a className="video_item" href={props.latestVideo} rel="noreferrer" target={'_blank'}><img alt={"유튜브 비디오"} src={latest}/></a>
+          <a className="video_item" href={props.latestVideo2} rel="noreferrer" target={'_blank'}><img alt={"유튜브 비디오"} src={latest2}/></a>
         </div>
         
       </div>
