@@ -29,7 +29,7 @@ export default function Review(props) {
   
   return(
     <div className="review-list">
-      <Avatar name="말강님" round={true} size={100}/>
+      <Avatar src={process.env.PUBLIC_URL + `/img/guest.png`} round={true} size={100}/>
       <div className="review-box">
         <div className="review-who">
           <p>{props.comment.name}</p>

@@ -79,20 +79,20 @@ export default function Start() {
 
         <label className="cate-box" for="usual"><p>평소 유튜브 시청 카테고리</p>
           {category.map((it, idx) => <div><input type="checkbox" name="usual" value={it} checked={usual[idx]} onChange={() => handleChange(usual, setUsual, idx)}/>{it}</div>)}
-          {usual[usual.length - 1]? <input type="text" placeholder="기타에 해당하는 카테고리 입력" value={usualEtc} onChange={(e) => setUsualEtc(e.target.value)}/> : null}
+          {usual[usual.length - 1]? <input type="text" placeholder="기타에 해당하는 카테고리" value={usualEtc} onChange={(e) => setUsualEtc(e.target.value)}/> : null}
         </label>
         <br/>
 
         <label className="cate-box" for="new"><p>새로운 유튜버를 추천받고싶은 카테고리</p>
           {category.map((it, idx) => <div><input type="checkbox" name="new" value={it} checked={want[idx]} onChange={() => handleChange(want, setWant, idx)}/>{it}</div>)}
-          {want[want.length - 1]? <input type="text" placeholder="기타에 해당하는 카테고리 입력" value={wantEtc} onChange={(e) => setWantEtc(e.target.value)}/> : null}
+          {want[want.length - 1]? <input type="text" placeholder="기타에 해당하는 카테고리" value={wantEtc} onChange={(e) => setWantEtc(e.target.value)}/> : null}
           <br/>
         </label>
 
-        <button className="start-button" type="button" onClick={() => setIsLastPage(true)} disabled={disabled} >시작하기</button>
+        <button className={`start-button ${disabled? "disabled": null}`} type="button" onClick={() => setIsLastPage(true)} disabled={disabled} >시작하기</button>
       </div>
 
-      <ReactModal className="start-modal" isOpen={isLastPage} contentLabel="마지막안내">
+      <ReactModal className="start-modal modal" isOpen={isLastPage} contentLabel="마지막안내">
       <button onClick={()=>{setIsLastPage(false)}}>X</button>
       <h2>테스트 종료시에는 반드시 <span>'종료하기'</span> 버튼을 누르고 설문조사를 해주세요! 서비스 개선에 큰 도움이 됩니다.감사합니다!</h2>
       <p> @ 사용하신 아이디는 테스트 종료 후 설문조사를 위해 기억해주세요 @ </p>

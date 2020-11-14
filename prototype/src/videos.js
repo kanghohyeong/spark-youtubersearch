@@ -23,13 +23,13 @@ export default function Videos(props) {
     <div className="video-contain">
       <div className="video">
         <h3>최고 인기 영상</h3>
-        <a href={props.bestVideo} target={'_blank'}><img src={best}/></a>
+        <a className="video_item" href={props.bestVideo} target={'_blank'}><img src={best}/></a>
       </div>
       <div className="video">
         <h3>최근 업로드</h3>
         <div className="latestvideos-box">
-          <a href={props.latestVideo} target={'_blank'}><img src={latest}/></a>
-          <a href={props.latestVideo2} target={'_blank'}><img src={latest2}/></a>
+          <a className="video_item" href={props.latestVideo} target={'_blank'}><img src={latest}/></a>
+          <a className="video_item" href={props.latestVideo2} target={'_blank'}><img src={latest2}/></a>
         </div>
         
       </div>

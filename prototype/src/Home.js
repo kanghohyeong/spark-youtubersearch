@@ -35,7 +35,7 @@ export default function Home() {
     <div className="home-box">
       <div className="reco-box">
         <h2>회원님의 취향에 딱 맞는 맞춤 유튜버 추천을 받고 싶다면 아래 버튼을 눌러주세요!</h2>
-        <button onClick={() => setOpenModal(true)}>{`맞춤 추천 ${loginText}`}</button>
+        <button className="btn" onClick={() => setOpenModal(true)}>{`맞춤 추천 ${loginText}`}</button>
         <ReactModal className="end-modal" isOpen={openModal}>
           <h1>{`맞춤 추천을 ${loginText}하시겠습니까?`}</h1>
           <p></p>

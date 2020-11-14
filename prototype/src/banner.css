@@ -22,6 +22,10 @@
   margin-bottom: auto;
 }
 
+.end-button:hover {
+  background-color: #a82a3f;
+}
+
 .title-logo {
   color: #f73859;
   font-size: 30px;
@@ -41,6 +45,10 @@
   float: right;
   margin: 30px;
   padding: 20px;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%) !important;
 }
 
 .end-modal > button {

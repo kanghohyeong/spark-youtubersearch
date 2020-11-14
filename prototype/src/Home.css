@@ -29,3 +29,7 @@
   font-size: 20px;
   margin-bottom: 5px;
 }
+
+.btn:hover{
+  background-color: #33a09c;
+}
