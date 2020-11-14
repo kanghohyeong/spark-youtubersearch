@@ -30,7 +30,7 @@
   margin-bottom: 5px;
 }
 
-.btn:hover {
+.reco-box .btn:hover {
   background-color: #33a09c;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .reco-box-start button {
-  background-color: #7ac7c4;
+  background-color: #384259;
   border: none;
   color: white;
 
@@ -56,4 +56,8 @@
   height: 30px;
   font-size: 20px;
   margin-bottom: 5px;
+}
+
+.reco-box-start .btn:hover {
+  background-color: darkgrey;
 }
