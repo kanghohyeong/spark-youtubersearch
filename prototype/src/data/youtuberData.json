@@ -878,7 +878,7 @@
       }
     ],
 
-    "similar": ["김레인", "랄로"]
+    "similar": ["김레인", "개리형"]
   },
 
   {
@@ -1043,13 +1043,13 @@
     "latestVideo2": "https://www.youtube.com/watch?v=BaGoQc-vyIw",
 
     "me": [
-      "아프리카tv", "실력", "리그오브레전드"
+      "트위치tv", "실력", "리그오브레전드"
     ],
 
     "characters": [
       { "text": "리그오브레전드", "value": 20 },
       { "text": "챌린저 출신", "value": 16 },
-      { "text": "아프리카TV","value": 17 },
+      { "text": "트위치TV","value": 17 },
       { "text": "미드","value": 13 },
       { "text": "트위스티드 페이트","value": 13 },
       { "text": "오리아나","value": 17 }
