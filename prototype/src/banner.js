@@ -28,7 +28,7 @@ export default function Banner() {
     <div className="top-banner">
      <h2 className="logo-contain"><Link to="/spark-youtubersearch" className="title-logo">YouReco!</Link></h2>
      <input className="search-box" type={"text"} placeholder={"유튜버를 검색하세요"}/>
-     <button className="end-button" onClick={() => setOpenEndModal(true)}>종료하기</button>
+     <button className="end-button blinking" onClick={() => setOpenEndModal(true)}>종료하기</button>
      <ReactModal className="end-modal" isOpen={openEndModal}>
        <h1>정말 종료하시겠습니까?</h1>
        <p>종료 시 테스터 설문조사로 연결됩니다.</p>
