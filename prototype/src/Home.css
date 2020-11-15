@@ -47,8 +47,16 @@
   font-size: 20px;
 }
 
-.reco-box-start button {
+.reco-box-start h2 > span {
+  color: #33a09c;
   background-color: #384259;
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.reco-box-start button {
+  background-color: #33a09c;
   border: none;
   color: white;
 

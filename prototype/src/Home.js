@@ -40,7 +40,7 @@ export default function Home() {
     return(
       <div className="home-box">
         <div className="reco-box-start">
-          <h2>회원님의 취향 분석 결과 <br></br> '리그오브레전드' '트위치tv' '아프리카tv' '프로' '뉴메타' '장인' '긍정적태도'</h2>
+          <h2>회원님의 취향 분석 결과 <br></br> <span>'리그오브레전드' '트위치tv' '아프리카tv' '프로' '뉴메타' '장인' '긍정적태도'</span></h2>
           <button className="btn" onClick={() => setOpenModal(true)}>{`맞춤 추천 ${loginText}`}</button>
           <ReactModal className="end-modal" isOpen={openModal}>
             <h1>{`맞춤 추천을 ${loginText}하시겠습니까?`}</h1>
