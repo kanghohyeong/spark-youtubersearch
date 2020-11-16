@@ -13,8 +13,8 @@ export default function Banner() {
     db.collection("survey").add(JSON.parse(survey))
     .then(function(docRef) {
       localStorage.removeItem("survey")
-      window.location.href = "https://forms.gle/ee1KoYa5fmmpe53JA";
-      // window.location.reload()
+      // window.location.href = "https://forms.gle/ee1KoYa5fmmpe53JA";
+      window.location.reload()
     })
     .catch(function(error) {
     });
@@ -31,7 +31,7 @@ export default function Banner() {
      <button className="end-button blinking" onClick={() => setOpenEndModal(true)}>종료하기</button>
      <ReactModal className="end-modal" isOpen={openEndModal}>
        <h1>정말 종료하시겠습니까?</h1>
-       <p>종료 시 테스터 설문조사로 연결됩니다.</p>
+       <p>종료 후 반드시 테스터 설문조사에 참여바랍니다.</p>
        <button onClick={() => setOpenEndModal(false)}>취소</button>
        <button onClick={() => finish()}>확인</button>
      </ReactModal>

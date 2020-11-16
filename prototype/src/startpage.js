@@ -43,6 +43,11 @@ export default function Start() {
     setTarget(target.map((it, i) => i === idx? !target[idx] : target[i]))
   }
 
+  const opensurvey = () => {
+    // window.parent.location.href = "https://forms.gle/ee1KoYa5fmmpe53JA"
+    window.open("https://forms.gle/ee1KoYa5fmmpe53JA")
+  }
+
   return(
     <div className="startpage-contain">
       <div className="top-title">
@@ -89,7 +94,7 @@ export default function Start() {
       <p> @ 본 테스트에서는 <span>검색 기능이 비활성화</span> 되어 있습니다. @ </p>
       <p> @ 본 테스트에서는 서비스 사용자가 <span>'리그오브레전드'</span> 유튜버를 많이 보는 사람이라고 가정합니다. @ </p>
       <p> @ 자신이 잘 알고 좋아하는 분야로 추천해준다고 생각하고 테스트해주세요! @ </p>
-        <button onClick={submit}>테스트 시작</button>
+        <button onClick={()=>{opensurvey(); submit(); }}>테스트 시작</button>
       </ReactModal>
 
     </div>
