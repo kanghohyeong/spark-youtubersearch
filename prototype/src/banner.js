@@ -13,8 +13,8 @@ export default function Banner() {
     db.collection("survey").add(JSON.parse(survey))
     .then(function(docRef) {
       localStorage.removeItem("survey")
-      // window.location.href = "https://forms.gle/ee1KoYa5fmmpe53JA";
-      window.location.reload()
+      window.location.href = "https://forms.gle/ee1KoYa5fmmpe53JA";
+      // window.location.reload()
     })
     .catch(function(error) {
     });
