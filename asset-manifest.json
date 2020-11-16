@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spark-youtubersearch/static/css/main.8c0fdafd.chunk.css",
-    "main.js": "/spark-youtubersearch/static/js/main.3dce67ff.chunk.js",
-    "main.js.map": "/spark-youtubersearch/static/js/main.3dce67ff.chunk.js.map",
+    "main.js": "/spark-youtubersearch/static/js/main.89dbcbce.chunk.js",
+    "main.js.map": "/spark-youtubersearch/static/js/main.89dbcbce.chunk.js.map",
     "runtime-main.js": "/spark-youtubersearch/static/js/runtime-main.cb7257ba.js",
     "runtime-main.js.map": "/spark-youtubersearch/static/js/runtime-main.cb7257ba.js.map",
     "static/js/2.090155e3.chunk.js": "/spark-youtubersearch/static/js/2.090155e3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cb7257ba.js",
     "static/js/2.090155e3.chunk.js",
     "static/css/main.8c0fdafd.chunk.css",
-    "static/js/main.3dce67ff.chunk.js"
+    "static/js/main.89dbcbce.chunk.js"
   ]
 }
