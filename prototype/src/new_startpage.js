@@ -4,44 +4,14 @@ import './new_startpage.css';
 
 
 export default function Start() {
-  const list = category.map(it => false)
+ 
 
-  const [name, setName] = useState("")
-  const [gender, setGender] = useState()
-  const [usual, setUsual] = useState(list)
-  const [want, setWant] = useState(list)
-  const [usualEtc, setUsualEtc] = useState("")
-  const [wantEtc, setWantEtc] = useState("")
-  const [isLastPage, setIsLastPage] = useState(false)
-  const [disabled, setDisabled] = useState(true)
-  
-  // 입력을 모두 했는지 검사해 disabled 변경
-  useEffect(() => {
-    if(name === "" || !gender || usual.indexOf(true) === -1 || want.indexOf(true) === -1) setDisabled(true)
-    else setDisabled(false)
-  }, [name, usual, want, gender])
-
-  // 마지막 안내 후 시작하기 눌렀을 때
+  // 시작하기 눌렀을 때
   const submit = () => {
-    const usualList = []
-    usual.forEach((it, idx) => {if(it) usualList.push(category[idx])})
-    if(usual[usual.length - 1] && usualEtc !== "") {
-      usualList.pop()
-      usualList.push(usualEtc)
-    }
-    const wantList = []
-    want.forEach((it, idx) => {if(it) wantList.push(category[idx])})
-    if(want[want.length - 1] && wantEtc !== "") {
-      wantList.pop()
-      wantList.push(wantEtc)
-    }
-    localStorage.setItem("survey", JSON.stringify({name: name, gender: gender, usual: usualList, want: wantList}))
+    localStorage.setItem("survey", "okay")
     window.location.reload()
   }
 
-  const handleChange = (target, setTarget, idx) => {
-    setTarget(target.map((it, i) => i === idx? !target[idx] : target[i]))
-  }
 
   const opensurvey = () => {
     // window.parent.location.href = "https://forms.gle/ee1KoYa5fmmpe53JA"
@@ -78,10 +48,3 @@ export default function Start() {
   );
 }
 
-const category = [
-  "패션", "뷰티", "푸드/먹방", "엔터테인먼트",
-  "Vlog일상", "IT/과학", "여행", "ASMR",
-  "게임", "펫/동물","영화/애니", "자동차",
-  "음악", "스포츠","FUN","뉴스/정치",
-  "교육","키즈","사회/종교","기타"
-]
