@@ -2,9 +2,10 @@ import React from 'react';
 import { Route } from 'react-router-dom';
 import YoutuberInfo from './youtuberinfo'
 import Banner from './banner'
-import Home from './Home'
+import New_Home from './new_Home'
+//import Home from './Home'
 import './App.css'
-import StartPage from './startpage'
+//import StartPage from './startpage'
 import New_StartPage from './new_startpage'
 import firebase from 'firebase';
 import 'firebase/firestore';
@@ -35,7 +36,7 @@ function App() {
     ret = (
       <div>
         <Route path="/spark-youtubersearch" component={Banner}/>
-        <Route exact path="/spark-youtubersearch" component={Home}/>
+        <Route exact path="/spark-youtubersearch" component={New_Home}/>
         <Route path="/spark-youtubersearch/youtuber/:name" component={YoutuberInfo}/>
       </div>
     )
