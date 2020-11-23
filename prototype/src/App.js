@@ -5,6 +5,7 @@ import Banner from './banner'
 import Home from './Home'
 import './App.css'
 import StartPage from './startpage'
+import New_StartPage from './new_startpage'
 import firebase from 'firebase';
 import 'firebase/firestore';
 require('dotenv').config();
@@ -39,7 +40,7 @@ function App() {
       </div>
     )
   } else {
-    ret = <StartPage/>
+    ret = <New_StartPage/>
   }
 
   return ret;

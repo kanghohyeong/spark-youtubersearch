@@ -14,9 +14,9 @@
     ],
 
     "characters": [
-      { "text": "리그오브레전드", "value": 20 },
-      { "text": "PC게임", "value": 16 },
-      { "text": "트위치TV","value": 17 },
+      { "text": "리그오브레전드", "value": 20 , "prop":0},
+      { "text": "PC게임", "value": 16 ,"prop":1},
+      { "text": "트위치TV","value": 17 ,"prop":2},
       { "text": "로스트아크","value": 13 },
       { "text": "높은텐션","value": 13 },
       { "text": "과몰입","value": 17 }
