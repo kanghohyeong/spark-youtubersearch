@@ -401,7 +401,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=SL8UNY3-siI",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "연기가 좋은", "공감되는", "웹드라마"
         ],
     
         "characters": [
@@ -438,7 +438,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=W83k6_jToKE",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "설레는", "웹드라마", "공감되는"
         ],
     
         "characters": [
@@ -475,7 +475,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=c9Alyk_O5Ew",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "웹드라마", "설레는", "공감되는"
         ],
     
         "characters": [
@@ -512,14 +512,14 @@
         "latestVideo2": "https://www.youtube.com/watch?v=ftZn3Qxmr6c",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "웹드라마", "공감되는", "감동적인"
         ],
     
         "characters": [
           { "text": "웹드라마", "value": 20 , "prop":0},
           { "text": "사회실험", "value": 16 ,"prop":0},
           { "text": "썸타는","value": 17 ,"prop":1},
-          { "text": "공감하는","value": 13, "prop":2 },
+          { "text": "공감되는","value": 13, "prop":2 },
           { "text": "사연, 썰","value": 13, "prop":0 },
           { "text": "감동적인","value": 17, "prop":2 }
         ],
@@ -549,13 +549,13 @@
         "latestVideo2": "https://www.youtube.com/watch?v=K0d86pzXWCE",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "공감되는", "웹드라마", "연기가 좋은"
         ],
     
         "characters": [
           { "text": "웹드라마", "value": 20 , "prop":0},
           { "text": "연애", "value": 16 ,"prop":1},
-          { "text": "공감이 많은","value": 17 ,"prop":2},
+          { "text": "공감되는","value": 17 ,"prop":2},
           { "text": "연기가 좋은","value": 13, "prop":1 },
           { "text": "일상적인","value": 13, "prop":1 },
           { "text": "설레는","value": 17, "prop":2 }
@@ -586,7 +586,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=5l-VOLW3MbE",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "연예인", "웃긴", "시트콤"
         ],
     
         "characters": [
@@ -623,7 +623,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=9EF-uB0aoHc",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "연예인", "엔터테인먼트", "웃긴"
         ],
     
         "characters": [
@@ -660,7 +660,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=MP5NM4qliO0",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "힙합", "엔터테인먼트", "자극적인"
         ],
     
         "characters": [
@@ -697,7 +697,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=kMdErXQ0gnU",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "웃긴", "엔터테인먼트", "연예인"
         ],
     
         "characters": [
@@ -734,7 +734,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=pKJZu24a8ls",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "웃긴", "엔터테인먼트", "백종원"
         ],
     
         "characters": [

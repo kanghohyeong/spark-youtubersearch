@@ -70,7 +70,15 @@ const mapWord = new Map([
   ["재미있는", <p style={normalText}><p style={highlightText}>재미있는</p> 반응을 얻습니다.</p>],
   ["체험", <p style={normalText}><p style={highlightText}>체험</p> 컨텐츠를 진행합니다.</p>],
   ["인터뷰", <p style={normalText}><p style={highlightText}>인터뷰</p> 가 주요 컨텐츠입니다.</p>],
-  ["자극적인", <p style={normalText}><p style={highlightText}>자극적인</p> 컨텐츠를 다룹니다.</p>]
-
+  ["자극적인", <p style={normalText}><p style={highlightText}>자극적인</p> 컨텐츠를 다룹니다.</p>],
+  ["공감되는",  <p style={normalText}><p style={highlightText}>공감이 되는</p> 컨텐츠를 다룹니다.</p>],
+  ["힙합", <p style={normalText}><p style={highlightText}>힙합</p> 컨텐츠를 다룹니다.</p>],
+  ["연기가 좋은", <p style={normalText}><p style={highlightText}>연기력이 좋은</p> 평이 많습니다.</p>],
+  ["웹드라마", <p style={normalText}><p style={highlightText}>웹드라마</p> 가 주요 컨텐츠입니다.</p>],
+  ["설레는", <p style={normalText}><p style={highlightText}>설레는</p> 반응을 얻습니다.</p>],
+  ["감동적인", <p style={normalText}><p style={highlightText}>감동적인</p> 반응을 얻습니다.</p>],
+  ["시트콤", <p style={normalText}><p style={highlightText}>시트콤</p> 컨텐츠를 다룹니다.</p>],
+  ["웃긴", <p style={normalText}><p style={highlightText}>웃긴</p> 반응을 얻습니다.</p>],
+  ["백종원", <p style={normalText}><p style={highlightText}>백종원이</p> 등장합니다.</p>]
 
 ])
