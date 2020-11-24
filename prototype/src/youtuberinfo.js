@@ -3,7 +3,7 @@ import ReviewList from './reviewList';
 import ProfileBanner from './profileBanner';
 import Videos from './videos';
 import WordCloud from './wordCloud';
-import data from './data/youtuberData.json';
+import data from './data/new_youtuberData.json';
 import Similar from './similar';
 import Match from './match'
 

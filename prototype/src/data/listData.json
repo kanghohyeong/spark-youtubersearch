@@ -22,6 +22,36 @@
         ["디스 이즈 샤이", "현솔", "Official Dopa", "T1 Faker", "백크 Baekk"],
         ["튜브김민교", "꿀탱탱", "저라뎃 JUSTLIKETHAT", "해물파전TV", "김레인"]
       ]
+    },
+
+    {
+      "name" : "엔터테인먼트",
+      "query" : [
+        ["구독자 ", "급상승 ", "", "유튜버"],
+        ["시청자 반응 ", "이 주로 ", "재밌어하는 ", "유튜버"],
+        ["인터뷰 ", "컨텐츠를 주로 하는 ", "", "유튜버"],
+        ["20대 ", "인기 ", "", "유튜버"],
+        ["시청자 반응 ", "이 주로 ", "감탄하는 ", "유튜버"],
+        ["웹예능 ", "컨텐츠를 주로 하는 ", "", "유튜버"],
+        ["평균 조회수", "가 높은", "", "유튜버"],
+        ["시청자 반응 ", "이 주로 ", "공감하는 ", "유튜버"],
+        ["웹드라마 ", "컨텐츠를 주로 하는 ", "", "유튜버"],
+        ["공중파,케이블 TV ", "공식 유튜브 ", "", "채널"]
+
+      ],
+      "youtubers": [
+        ["아는형님 Knowingbros","Mnet Official","JTBC Entertainment","채널 십오야","odg"],
+        ["와썹맨-Wassup Man","워크맨-Workman","아는형님 Knowingbros","채널 십오야","오분순삭"],
+        ["odg","YOLO STUDIO","스푸닝 Spooning Korean Talk","Solfa","Ripple_S"],
+        ["달라스튜디오","채널 십오야","워크맨-Workman","짧은대본 ShortPaper","스푸닝 Spooning Korean Talk"],
+        ["odg","달라스튜디오","Mnet Official","Solfa","미선임파서블 MISUN:IMPOSSIBLE"],
+        ["미선임파서블 MISUN:IMPOSSIBLE","워크맨-Workman","달라스튜디오","와썹맨-Wassup Man","채널 십오야"],
+        ["Solfa","워크맨-Workman", "odg", "CheezeFilm","와썹맨-Wassup Man"],
+        ["짧은대본 ShortPaper","달라스튜디오","스푸닝 Spooning Korean Talk","딩고 스토리 / dingo story","YOLO STUDIO"],
+        ["PLAYLIST ORIGINALS 플레이리스트 오리지널","CheezeFilm","썸카페","딩고 스토리 / dingo story","짧은대본 ShortPaper"],
+        ["오분순삭","아는형님 Knowingbros","Mnet Official","JTBC Entertainment","SBS Entertainment"]
+
+      ]
     }
   ],
 
@@ -49,38 +79,5 @@
         ["튜브김민교","무지개맛 Rainbow Flavor" , "스간TV", "해물파전TV", "김레인"]
       ]
     }
-  ],
-
-  "entertainment" : [
-    {
-      "name" : "엔터테인먼트",
-      "query" : [
-        ["구독자 ", "급상승 ", "", "유튜버"],
-        ["시청자 반응 ", "이 주로 ", "재밌어하는 ", "유튜버"],
-        ["인터뷰 ", "컨텐츠를 주로 하는 ", "", "유튜버"],
-        ["20대 ", "인기 ", "", "유튜버"],
-        ["시청자 반응 ", "이 주로 ", "감탄하는 ", "유튜버"],
-        ["웹예능 ", "컨텐츠를 주로 하는 ", "", "유튜버"],
-        ["평균 조회수", "가 높은", "", "유튜버"],
-        ["시청자 반응 ", "이 주로 ", "공감하는 ", "유튜버"],
-        ["웹드라마 ", "컨텐츠를 주로 하는 ", "", "유튜버"],
-        ["공중파,케이블 TV ", "공식 유튜브 ", "", "채널"]
-
-      ],
-      "youtubers": [
-        ["아는형님 Knowingbros","Mnet Official","JTBC Entertainment","채널 십오야","odg"],
-        ["와썹맨-Wassup Man","워크맨-Workman","아는형님 Knowingbros","채널 십오야","오분순삭"],
-        ["odg","YOLO STUDIO","스푸닝 Spooning Korean Talk","Solfa","Ripple_S"],
-        ["달라스튜디오","채널 십오야","워크맨-Workman","짧은대본 ShortPaper","스푸닝 Spooning Korean Talk"],
-        ["odg","달라스튜디오","Mnet Official","Solfa","미선임파서블 MISUN:IMPOSSIBLE"],
-        ["미선임파서블 MISUN:IMPOSSIBLE","워크맨-Workman","달라스튜디오","와썹맨-Wassup Man","채널 십오야"],
-        ["Solfa","워크맨-Workman","","CheezeFilm","와썹맨-Wassup Man"],
-        ["짧은대본 ShortPaper","달라스튜디오","스푸닝 Spooning Korean Talk","딩고 스토리 / dingo story","YOLO STUDIO"],
-        ["PLAYLIST ORIGINALS 플레이리스트 오리지널","CheezeFilm","썸카페","딩고 스토리 / dingo story","짧은대본 ShortPaper"],
-        ["오분순삭","아는형님 Knowingbros","Mnet Official","JTBC Entertainment","SBS Entertainment"]
-
-      ]
-    }
-
   ]
 }

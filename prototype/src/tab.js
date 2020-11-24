@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import YoutuberList from './youtuberList'
 import './tab.css'
 
-const category = ["게임", "음악", "요리", "브이로그", "패션"]
+const category = ["엔터테인먼트", "음악", "요리", "브이로그", "패션"]
 
 export default function Tab(props) {
   const tabItemStyle = {
