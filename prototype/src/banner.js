@@ -9,7 +9,7 @@ export default function Banner() {
 
   const finish = () => {
     //const survey = localStorage.getItem("survey")
-    localStorage.removeItem("survey");
+    localStorage.removeItem("manual");
     window.location.reload();
 
     

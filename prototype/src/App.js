@@ -30,7 +30,7 @@ function App() {
   }
   db = firebase.firestore()
 
-  const didSurvey = localStorage.getItem("survey") !== null
+  const didSurvey = localStorage.getItem("manual") !== null
   let ret;
   if(didSurvey) {
     ret = (

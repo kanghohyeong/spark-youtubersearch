@@ -7,7 +7,7 @@ export default function Start() {
 
   // 시작하기 눌렀을 때
   const submit = () => {
-    localStorage.setItem("survey", "okay")
+    localStorage.setItem("manual", "okay")
     window.location.reload()
   }
 
