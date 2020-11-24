@@ -6,9 +6,9 @@ export default function WordCloud(props) {
 
   const callbacks = {
     getWordColor: word => {
-      if (word.prop === 0) return "#1f77b4";
-      else if (word.prop === 1) return "#2ca02c";
-      else return "#9467bd";
+      if (word.prop === 0) return "#1f77b4"; //컨텐츠 키워드
+      else if (word.prop === 1) return "#ff7f0e"; //방송성격 키워드
+      else return "#2ca02c"; //시청자 반응 키워드
     }
   };
 
@@ -30,7 +30,16 @@ export default function WordCloud(props) {
 
   return(
     <div className="wordcloud-contain">
-      <h2>유레코 분석결과</h2>
+      <div className="text-contain">
+        <h2>유레코 분석결과</h2>
+        <div className="word-color">
+          <span >키워드 유형 : </span>
+          <span style={{color:"#1f77b4",fontWeight:"bolder" }}>컨텐츠</span>
+          <span style={{color:"#ff7f0e",fontWeight:"bolder"}}>방송 성격</span>
+          <span style={{color:"#2ca02c",fontWeight:"bolder"}}>시청자 반응</span>
+        </div>
+      </div>
+      
       <div className="wordcloud"><ReactWordcloud  callbacks={callbacks} options={options} words={props.characters}/></div>
     </div>
   )
