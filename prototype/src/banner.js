@@ -9,15 +9,8 @@ export default function Banner() {
 
   const finish = () => {
     const survey = localStorage.getItem("survey")
-
-    db.collection("survey").add(JSON.parse(survey))
-    .then(function(docRef) {
-      localStorage.removeItem("survey")
-      window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScKgmzMRdMO9G9aQIMpMBBx2eldE31zOLg3vomsRHMSWFjGQw/viewform?usp=sf_link";
-      // window.location.reload()
-    })
-    .catch(function(error) {
-    });
+    localStorage.removeItem("survey");
+    window.location.reload();
 
     
   }

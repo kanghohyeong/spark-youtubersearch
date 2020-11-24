@@ -35,7 +35,7 @@ export default function WordCloud(props) {
         <div className="word-color">
           <span >키워드 유형 : </span>
           <span style={{color:"#1f77b4",fontWeight:"bolder" }}>컨텐츠</span>
-          <span style={{color:"#ff7f0e",fontWeight:"bolder"}}>방송 성격</span>
+          <span style={{color:"#ff7f0e",fontWeight:"bolder"}}>연관 태그</span>
           <span style={{color:"#2ca02c",fontWeight:"bolder"}}>시청자 반응</span>
         </div>
       </div>

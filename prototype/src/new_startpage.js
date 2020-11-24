@@ -15,7 +15,7 @@ export default function Start() {
 
   const opensurvey = () => {
     // window.parent.location.href = "https://forms.gle/ee1KoYa5fmmpe53JA"
-    window.open("https://docs.google.com/forms/d/e/1FAIpQLScKgmzMRdMO9G9aQIMpMBBx2eldE31zOLg3vomsRHMSWFjGQw/viewform?usp=sf_link","", "_blank")
+    window.open("https://docs.google.com/forms/d/e/1FAIpQLSfL2ZgfU4CVorkG2lZ55klv-dVbFJqr5vp6QAAlkyyPLzVa2g/viewform?usp=sf_link","", "_blank")
   }
 
   return(
