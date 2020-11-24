@@ -3,7 +3,7 @@ import Card from './card'
 import './cardList.css'
 
 export default function CardList(props) {
-  const card = props.name.map(it => <Card name={it.name} subscribers={it.subscribers} characters={it.characters}/>);
+  const card = props.name.map(it => <Card key={it.name} name={it.name} subscribers={it.subscribers} characters={it.characters}/>);
 
   return(
     <div className="cardList-contain">

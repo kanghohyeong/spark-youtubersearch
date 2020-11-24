@@ -6,7 +6,7 @@ import New_Home from './new_Home'
 //import Home from './Home'
 import './App.css'
 //import StartPage from './startpage'
-import New_StartPage from './new_startpage'
+import NewStartPage from './new_startpage'
 import firebase from 'firebase';
 import 'firebase/firestore';
 require('dotenv').config();
@@ -41,7 +41,7 @@ function App() {
       </div>
     )
   } else {
-    ret = <New_StartPage/>
+    ret = <NewStartPage/>
   }
 
   return ret;

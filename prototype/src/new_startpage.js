@@ -1,5 +1,4 @@
-import React, {useState, useEffect} from 'react';
-import ReactModal from 'react-modal'
+import React from 'react';
 import './new_startpage.css';
 
 

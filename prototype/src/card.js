@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import './card.css'
 
 export default function Card(props) {
-  const characters = props.characters.map(it => <p>{it}</p>)
+  const characters = props.characters.map(it => <p key={it}>{it}</p>)
 
   return(
     <Link className="card-link" to={`/spark-youtubersearch/youtuber/${props.name}`}>

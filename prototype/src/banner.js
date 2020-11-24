@@ -2,13 +2,13 @@ import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
 import ReactModal from 'react-modal'
 import './banner.css';
-import {db} from './App.js'
+//import {db} from './App.js'
 export default function Banner() {
 
   const [openEndModal, setOpenEndModal] = useState(false)
 
   const finish = () => {
-    const survey = localStorage.getItem("survey")
+    //const survey = localStorage.getItem("survey")
     localStorage.removeItem("survey");
     window.location.reload();
 

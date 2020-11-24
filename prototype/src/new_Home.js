@@ -4,15 +4,15 @@ import './Home.css'
 import ReactModal from 'react-modal'
 
 export default function Home() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false)
+  const [isLoggedIn] = useState(false)
   const [openModal, setOpenModal] = useState(false)
   
-  const loginText = isLoggedIn? "종료" : "시작"
+  //const loginText = isLoggedIn? "종료" : "시작"
 
-  const setLogin = () => {
-    setOpenModal(false)
-    setIsLoggedIn(!isLoggedIn)
-  }
+  // const setLogin = () => {
+  //   setOpenModal(false)
+  //   setIsLoggedIn(!isLoggedIn)
+  // }
 
 
     return(

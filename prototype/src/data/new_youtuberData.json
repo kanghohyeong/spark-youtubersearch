@@ -406,11 +406,11 @@
     
         "characters": [
           { "text": "웹드라마", "value": 20 , "prop":0},
-          { "text": "연기가 좋은", "value": 16 ,"prop":1},
-          { "text": "연애","value": 17 ,"prop":2},
-          { "text": "공감되는","value": 13 },
-          { "text": "영상미가 좋은","value": 13 },
-          { "text": "설레는","value": 17 }
+          { "text": "연기가 좋은", "value": 16 ,"prop":2},
+          { "text": "연애","value": 17 ,"prop":1},
+          { "text": "공감되는","value": 13,"prop":2 },
+          { "text": "영상미가 좋은","value": 13 ,"prop":1},
+          { "text": "설레는","value": 17 ,"prop":2}
         ],
     
         "comments": [
@@ -445,9 +445,9 @@
           { "text": "웹드라마", "value": 20 , "prop":0},
           { "text": "영상미가 좋은", "value": 16 ,"prop":1},
           { "text": "공감되는","value": 17 ,"prop":2},
-          { "text": "설레는","value": 13 },
-          { "text": "연애","value": 13 },
-          { "text": "학생, 청소년","value": 17 }
+          { "text": "설레는","value": 13 ,"prop":2},
+          { "text": "연애","value": 13 ,"prop":1},
+          { "text": "학생, 청소년","value": 17 ,"prop":1}
         ],
     
         "comments": [
@@ -500,10 +500,10 @@
           }
         ],
     
-        "similar": ["짧은대본 ShortPaper", "딩고 스토리 / dingo story"]
+        "similar": ["짧은대본 ShortPaper", "딩고 스토리"]
       },
       {
-        "name": "딩고 스토리 / dingo story",
+        "name": "딩고 스토리",
         "subscribers": "132만명",
         "link": "https://www.youtube.com/user/moncastwebdong",
         "rate": 4.6,
@@ -619,7 +619,7 @@
         "link": "https://www.youtube.com/user/mygoldendisk",
         "rate": 4.6,
         "bestVideo": "https://www.youtube.com/watch?v=01iz9kmvbxg",
-        "latestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
+        "latestVideo": "https://www.youtube.com/watch?v=UpRFm4_gnHY",
         "latestVideo2": "https://www.youtube.com/watch?v=9EF-uB0aoHc",
     
         "me": [

@@ -13,7 +13,6 @@ export default function YoutuberList(props) {
       title: it,
       names: current.youtubers[idx].map((it) => {
         const value = youtuberData.youtubers.filter(youtuber => youtuber.name === it)[0];
-        console.log(value)
         const characters = value.characters.slice(0, 3).map(it => it.text)
         return({
           name: it,
@@ -24,7 +23,7 @@ export default function YoutuberList(props) {
     })
   })
 
-  const card = info.map(it => <CardList title={it.title} name={it.names} color={props.color}/>)
+  const card = info.map(it => <CardList key={it.title} title={it.title} name={it.names} color={props.color}/>)
 
   return(
     <div>
