@@ -20,7 +20,8 @@
         { "text": "개그우먼","value": 17 ,"prop":1},
         { "text": "엔터테인먼트","value": 13 , "prop":0},
         { "text": "박미선","value": 13 , "prop":1},
-        { "text": "연예인","value": 17 , "prop":1}
+        { "text": "연예인","value": 17 , "prop":1},
+        { "text": "소통하는","value": 17 ,"prop":2}
       ],
   
       "comments": [
@@ -58,7 +59,8 @@
           { "text": "엔터테인먼트","value": 13 , "prop":0},
           { "text": "공감하는","value": 13 , "prop":2},
           { "text": "미친 탠션","value": 17 , "prop":1},
-          { "text": "개드립","value": 13 , "prop":1}
+          { "text": "개드립","value": 13 , "prop":1},
+          { "text": "소통하는","value": 17 ,"prop":2}
         ],
     
         "comments": [
@@ -93,10 +95,12 @@
           { "text": "네고왕", "value": 20 , "prop":0},
           { "text": "발명왕", "value": 16 ,"prop":0},
           { "text": "감탄하는","value": 17 ,"prop":2},
+          { "text": "엔터테인먼트","value": 17 ,"prop":0},
           { "text": "황광희","value": 13 ,"prop":1},
           { "text": "유노윤호","value": 13 ,"prop":1},
           { "text": "사이다","value": 17 ,"prop":1},
-          { "text": "재미있는","value": 17 ,"prop":2}
+          { "text": "재미있는","value": 17 ,"prop":2},
+          { "text": "소통하는","value": 17 ,"prop":2}
         ],
     
         "comments": [
@@ -116,35 +120,37 @@
       },
       {
         "name": "와썹맨-Wassup Man",
-        "subscribers": "24.7만명",
-        "link": "https://www.youtube.com/channel/UCVJT18d9wSCnDUdnJ9ycO7Q",
+        "subscribers": "232만명",
+        "link": "https://www.youtube.com/channel/UCYgUhR7EGKauFXgJS0pckGg",
         "rate": 4.6,
-        "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
-        "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
-        "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
+        "bestVideo": "https://www.youtube.com/watch?v=wwWcusQMBPI",
+        "latestVideo": "https://www.youtube.com/watch?v=NjgBfP9K4Zs",
+        "latestVideo2": "https://www.youtube.com/watch?v=RIhLicP6LMo",
     
         "me": [
           "트위치tv", "높은텐션", "리그오브레전드"
         ],
     
         "characters": [
-          { "text": "리그오브레전드", "value": 20 , "prop":0},
-          { "text": "PC게임", "value": 16 ,"prop":1},
-          { "text": "트위치TV","value": 17 ,"prop":2},
-          { "text": "로스트아크","value": 13 },
-          { "text": "높은텐션","value": 13 },
-          { "text": "과몰입","value": 17 }
+          { "text": "박준영", "value": 20 , "prop":1},
+          { "text": "재미있는", "value": 16 ,"prop":2},
+          { "text": "체험","value": 17 ,"prop":0},
+          { "text": "엔터테인먼트","value": 13 ,"prop":0},
+          { "text": "높은텐션","value": 13 ,"prop":1},
+          { "text": "개드립","value": 17 ,"prop":1},
+          { "text": "핫플레이스","value": 17 ,"prop":1},
+          { "text": "소통하는","value": 17 ,"prop":2}
         ],
     
         "comments": [
           {
             "name": "말강님",
-            "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+            "text": "GOD 박준영의 핫플레이스 탐방기. 특유의 어휘와 매우 솔직한 평가로 인기가 많다.",
             "like": 336
           },
           {
             "name": "여눙님",
-            "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+            "text": "여기저기 유명한 곳에 찾아가서 유명한 것들을 해본다. 진짜 리얼로 체험하고 평가하는게 좋고 특히 박준형 개드립 너무 좋다.",
             "like": 157
           }
         ],
@@ -153,35 +159,38 @@
       },
       {
         "name": "채널 십오야",
-        "subscribers": "24.7만명",
-        "link": "https://www.youtube.com/channel/UCVJT18d9wSCnDUdnJ9ycO7Q",
+        "subscribers": "232만명",
+        "link": "https://www.youtube.com/channel/UCQ2O-iftmnlfrBuNsUUTofQ",
         "rate": 4.6,
-        "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
-        "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
-        "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
+        "bestVideo": "https://www.youtube.com/watch?v=Y4holHtEmb4",
+        "latestVideo": "https://www.youtube.com/watch?v=pIiTi97z4yM",
+        "latestVideo2": "https://www.youtube.com/watch?v=B_v4l5662Zs",
     
         "me": [
           "트위치tv", "높은텐션", "리그오브레전드"
         ],
     
         "characters": [
-          { "text": "리그오브레전드", "value": 20 , "prop":0},
-          { "text": "PC게임", "value": 16 ,"prop":1},
-          { "text": "트위치TV","value": 17 ,"prop":2},
-          { "text": "로스트아크","value": 13 },
-          { "text": "높은텐션","value": 13 },
-          { "text": "과몰입","value": 17 }
+          { "text": "연예인", "value": 20 , "prop":1},
+          { "text": "나영석", "value": 16 ,"prop":1},
+          { "text": "신서유기","value": 17 ,"prop":0},
+          { "text": "엔터테인먼트","value": 13 ,"prop":0},
+          { "text": "이식당","value": 13 ,"prop":0},
+          { "text": "규현","value": 17 ,"prop":1},
+          { "text": "슬기로운 의사생활","value": 17 ,"prop":0},
+          { "text": "재미있는","value": 17 ,"prop":2},
+          { "text": "고퀄리티 편집","value": 17 ,"prop":1}
         ],
     
         "comments": [
           {
             "name": "말강님",
-            "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+            "text": "1박2일 PD 나영석의 공식 유튜브 채널. 나영석다운 기획력과 깔끔한 편집이 그냥 TV 클라스임.",
             "like": 336
           },
           {
             "name": "여눙님",
-            "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+            "text": "나영석스러운 예능 좋아하는 사람은 무조건 좋아할듯. tv에 나오지 못한 나영석 예능의 뒷이야기를 볼 수 있다는 점도 좋음.",
             "like": 157
           }
         ],
@@ -190,35 +199,37 @@
       },
       {
         "name": "odg",
-        "subscribers": "24.7만명",
-        "link": "https://www.youtube.com/channel/UCVJT18d9wSCnDUdnJ9ycO7Q",
+        "subscribers": "182만명",
+        "link": "https://www.youtube.com/channel/UCpjm6R2yqu1GZjYtsIiXR5w",
         "rate": 4.6,
-        "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
-        "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
-        "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
+        "bestVideo": "https://www.youtube.com/watch?v=r1gp8Qx5YPQ",
+        "latestVideo": "https://www.youtube.com/watch?v=XX3Mf7krfJI",
+        "latestVideo2": "https://www.youtube.com/watch?v=ocdKUqgNvNA",
     
         "me": [
           "트위치tv", "높은텐션", "리그오브레전드"
         ],
     
         "characters": [
-          { "text": "리그오브레전드", "value": 20 , "prop":0},
-          { "text": "PC게임", "value": 16 ,"prop":1},
-          { "text": "트위치TV","value": 17 ,"prop":2},
-          { "text": "로스트아크","value": 13 },
-          { "text": "높은텐션","value": 13 },
-          { "text": "과몰입","value": 17 }
+          { "text": "어린이", "value": 20 , "prop":1},
+          { "text": "인터뷰", "value": 16 ,"prop":0},
+          { "text": "감탄하는","value": 17 ,"prop":2},
+          { "text": "엔터테인먼트","value": 13 ,"prop":0},
+          { "text": "감동하는","value": 13 ,"prop":2},
+          { "text": "공감하는","value": 17 ,"prop":2},
+          { "text": "교훈","value": 17 ,"prop":1}
+
         ],
     
         "comments": [
           {
             "name": "말강님",
-            "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+            "text": "누구나 한번은 어린이였다. 어른들의 사정을 어린이의 시선에서 풀어내는 정말 좋은 유튜브 채널",
             "like": 336
           },
           {
             "name": "여눙님",
-            "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+            "text": "순수함에서 나오는 어린이들의 대사에서 정말 많은 것을 배웁니다... 어린이들에게 위로받는것 같아요..",
             "like": 157
           }
         ],
@@ -227,35 +238,36 @@
       },
       {
         "name": "YOLO STUDIO",
-        "subscribers": "24.7만명",
-        "link": "https://www.youtube.com/channel/UCVJT18d9wSCnDUdnJ9ycO7Q",
+        "subscribers": "17만명",
+        "link": "https://www.youtube.com/channel/UChr6fx9Vf5DpMpJdmU85m_A",
         "rate": 4.6,
-        "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
-        "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
-        "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
+        "bestVideo": "https://www.youtube.com/watch?v=0CUgj75T0kE",
+        "latestVideo": "https://www.youtube.com/watch?v=UHzcZP16Oyk",
+        "latestVideo2": "https://www.youtube.com/watch?v=PMBiE2TZp2Y",
     
         "me": [
           "트위치tv", "높은텐션", "리그오브레전드"
         ],
     
         "characters": [
-          { "text": "리그오브레전드", "value": 20 , "prop":0},
-          { "text": "PC게임", "value": 16 ,"prop":1},
-          { "text": "트위치TV","value": 17 ,"prop":2},
-          { "text": "로스트아크","value": 13 },
-          { "text": "높은텐션","value": 13 },
-          { "text": "과몰입","value": 17 }
+          { "text": "연애", "value": 20 , "prop":1},
+          { "text": "인터뷰", "value": 16 ,"prop":0},
+          { "text": "남녀관계","value": 17 ,"prop":1},
+          { "text": "엔터테인먼트","value": 13 ,"prop":0},
+          { "text": "소통하는","value": 13 ,"prop":2},
+          { "text": "공감하는","value": 17 ,"prop":2},
+          { "text": "자극적인","value": 17 ,"prop":1}
         ],
     
         "comments": [
           {
             "name": "말강님",
-            "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+            "text": "주로 남녀관계, 연애, 남사친 여사친 등의 컨텐츠를 다룬다. 남녀관계의 솔직한 심정을 잘 끄집어 내는듯. ",
             "like": 336
           },
           {
             "name": "여눙님",
-            "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+            "text": "연상연하는 어떨까? 남사친 여사친 가능? 장거리 커플은 어떨까? 등등등 사랑에 대한 자극적인 주제로 인터뷰",
             "like": 157
           }
         ],
@@ -264,35 +276,36 @@
       },
       {
         "name": "스푸닝 Spooning Korean Talk",
-        "subscribers": "24.7만명",
-        "link": "https://www.youtube.com/channel/UCVJT18d9wSCnDUdnJ9ycO7Q",
+        "subscribers": "77.6만명",
+        "link": "https://www.youtube.com/channel/UCMheXnAL4CXLrevMykEu5zA",
         "rate": 4.6,
-        "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
-        "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
-        "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
+        "bestVideo": "https://www.youtube.com/watch?v=m92qMfPf76E",
+        "latestVideo": "https://www.youtube.com/watch?v=14UdXr4xPkw",
+        "latestVideo2": "https://www.youtube.com/watch?v=9q70Zgpg5no",
     
         "me": [
           "트위치tv", "높은텐션", "리그오브레전드"
         ],
     
         "characters": [
-          { "text": "리그오브레전드", "value": 20 , "prop":0},
-          { "text": "PC게임", "value": 16 ,"prop":1},
-          { "text": "트위치TV","value": 17 ,"prop":2},
-          { "text": "로스트아크","value": 13 },
-          { "text": "높은텐션","value": 13 },
-          { "text": "과몰입","value": 17 }
+          { "text": "성(SEX)", "value": 20 , "prop":1},
+          { "text": "공감하는", "value": 16 ,"prop":2},
+          { "text": "여성","value": 17 ,"prop":1},
+          { "text": "엔터테인먼트","value": 13 ,"prop":0},
+          { "text": "자극적인","value": 13 ,"prop":1},
+          { "text": "인터뷰","value": 17 ,"prop":0},
+          { "text": "토크쇼","value": 17 ,"prop":0}
         ],
     
         "comments": [
           {
             "name": "말강님",
-            "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+            "text": "주로 여성의 성생활 관련된 컨텐츠를 다룬다. 소재가 워낙 노골적이고 솔직해서 인기가 많은듯.",
             "like": 336
           },
           {
             "name": "여눙님",
-            "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+            "text": "역시 유튜브. 이런 이야기를 편하게 할 수 있어서 너무 좋다. 유교 아웃",
             "like": 157
           }
         ],
@@ -301,35 +314,38 @@
       },
       {
         "name": "Solfa",
-        "subscribers": "24.7만명",
-        "link": "https://www.youtube.com/channel/UCVJT18d9wSCnDUdnJ9ycO7Q",
+        "subscribers": "140만명",
+        "link": "https://www.youtube.com/channel/UC6XZ4fmiUPQk6ws6fGs2rQg",
         "rate": 4.6,
-        "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
-        "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
-        "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
+        "bestVideo": "https://www.youtube.com/watch?v=XQOQI1z6Zyk",
+        "latestVideo": "https://www.youtube.com/watch?v=CV0b9rc6DeE",
+        "latestVideo2": "https://www.youtube.com/watch?v=dNI8bfXNA4U",
     
         "me": [
           "트위치tv", "높은텐션", "리그오브레전드"
         ],
     
         "characters": [
-          { "text": "리그오브레전드", "value": 20 , "prop":0},
-          { "text": "PC게임", "value": 16 ,"prop":1},
-          { "text": "트위치TV","value": 17 ,"prop":2},
-          { "text": "로스트아크","value": 13 },
-          { "text": "높은텐션","value": 13 },
-          { "text": "과몰입","value": 17 }
+          { "text": "인터뷰", "value": 20 , "prop":0},
+          { "text": "교훈", "value": 16 ,"prop":1},
+          { "text": "감탄하는","value": 17 ,"prop":2},
+          { "text": "엔터테인먼트","value": 13 ,"prop":0},
+          { "text": "소통하는","value": 13 ,"prop":2},
+          { "text": "체험","value": 17 ,"prop":1},
+          { "text": "교훈","value": 17 ,"prop":1},
+          { "text": "고퀄리티","value": 17 ,"prop":1}
+
         ],
     
         "comments": [
           {
             "name": "말강님",
-            "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+            "text": "다른 인터뷰 채널들과 달리 뭔가 뒤통수를 탁 치는 주제를 다룬다는 것이 포인트. 가벼운 컨텐츠도 있지만 먼가 생각을 넓혀주는 주제가 많다.",
             "like": 336
           },
           {
             "name": "여눙님",
-            "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+            "text": "깔끔한 편집. 훌륭한 소재. 영상미. 정말 퀄리티가 좋은 채널이다.",
             "like": 157
           }
         ],
@@ -339,34 +355,36 @@
       {
         "name": "Ripple_S",
         "subscribers": "24.7만명",
-        "link": "https://www.youtube.com/channel/UCVJT18d9wSCnDUdnJ9ycO7Q",
+        "link": "https://www.youtube.com/channel/UCCjJV_nxuPQ_fWGkAkA46fA",
         "rate": 4.6,
-        "bestVideo": "https://www.youtube.com/watch?v=zbtzsuOvklY",
-        "latestVideo": "https://www.youtube.com/watch?v=_ym89hzblCI",
-        "latestVideo2": "https://www.youtube.com/watch?v=Q__QBmBNJ5c",
+        "bestVideo": "https://www.youtube.com/watch?v=-1_I46R3GvI",
+        "latestVideo": "https://www.youtube.com/watch?v=A9myqMwmh-0",
+        "latestVideo2": "https://www.youtube.com/watch?v=l-yZHtJvuGw",
     
         "me": [
           "트위치tv", "높은텐션", "리그오브레전드"
         ],
     
         "characters": [
-          { "text": "리그오브레전드", "value": 20 , "prop":0},
-          { "text": "PC게임", "value": 16 ,"prop":1},
-          { "text": "트위치TV","value": 17 ,"prop":2},
-          { "text": "로스트아크","value": 13 },
-          { "text": "높은텐션","value": 13 },
-          { "text": "과몰입","value": 17 }
+          { "text": "인터뷰", "value": 20 , "prop":0},
+          { "text": "재미있는", "value": 16 ,"prop":2},
+          { "text": "체험","value": 17 ,"prop":1},
+          { "text": "엔터테인먼트","value": 13 ,"prop":0},
+          { "text": "자극적인","value": 13 ,"prop":1},
+          { "text": "소통하는","value": 17 ,"prop":2},
+          { "text": "리뷰","value": 17 ,"prop":1}
+
         ],
     
         "comments": [
           {
             "name": "말강님",
-            "text": "과몰입의 장인. 미친 텐션으로 분노와 억울함을 표출하는 것이 일품이다. 풋볼 매니져가 근본 컨텐츠이며 주로 롤을 플레이 한다.",
+            "text": "자극적인 소재로 솔직한 대화를 나누는 유튜브. 성, 음식 등 자극적인 체험을 하고 리뷰를 한다.",
             "like": 336
           },
           {
             "name": "여눙님",
-            "text": "과몰입과 역겨움의 조화. 모든 게임에 미친듯이 심취한다. 트위치tv 천룡인다운 방송 센스.",
+            "text": "일반인 리뷰, 인터뷰 , 토크쇼의 정석. 누구나 궁금할만한 자극적인 주제를 잘 고르는듯.",
             "like": 157
           }
         ],
