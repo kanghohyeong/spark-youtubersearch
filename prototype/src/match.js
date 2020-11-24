@@ -63,6 +63,14 @@ const mapWord = new Map([
   ["독특한 편집 스타일", <p style={normalText}><p style={highlightText}>독특한 편집 스타일</p>을 가지고 있습니다.</p>],
   ["공식", <p style={normalText}><p style={highlightText}>공식</p> 유튜브 채널입니다.</p>],
   ["먹방", <p style={normalText}><p style={highlightText}>먹방</p> 유튜버 입니다.</p>],
-  ["장인", <p style={normalText}><p style={highlightText}>장인</p> 플레이어입니다.</p>]
+  ["장인", <p style={normalText}><p style={highlightText}>장인</p> 플레이어입니다.</p>],
+  ["엔터테인먼트", <p style={normalText}><p style={highlightText}>엔터테인먼트</p> 카테고리입니다.</p>],
+  ["감탄하는", <p style={normalText}><p style={highlightText}>감탄하는</p> 반응을 얻습니다.</p>],
+  ["연예인", <p style={normalText}><p style={highlightText}>연예인</p>이 나옵니다.</p>],
+  ["재미있는", <p style={normalText}><p style={highlightText}>재미있는</p> 반응을 얻습니다.</p>],
+  ["체험", <p style={normalText}><p style={highlightText}>체험</p> 컨텐츠를 진행합니다.</p>],
+  ["인터뷰", <p style={normalText}><p style={highlightText}>인터뷰</p> 가 주요 컨텐츠입니다.</p>],
+  ["자극적인", <p style={normalText}><p style={highlightText}>자극적인</p> 컨텐츠를 다룹니다.</p>]
+
 
 ])

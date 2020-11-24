@@ -1,7 +1,7 @@
 {"youtubers" : [
 
     {
-      "name": "미선임파서블 MISUN:IMPOSSIBLE",
+      "name": "미선임파서블",
       "subscribers": "27.5만명",
       "link": "https://www.youtube.com/channel/UCJmcPVY4dC0e3L5_eemKtlg",
       "rate": 4.6,
@@ -10,7 +10,7 @@
       "latestVideo2": "https://www.youtube.com/watch?v=Ws-VBQ8HEBI",
   
       "me": [
-        "트위치tv", "높은텐션", "리그오브레전드"
+        "감탄하는", "연예인", "엔터테인먼트"
       ],
   
       
@@ -37,7 +37,7 @@
         }
       ],
   
-      "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+      "similar": ["워크맨-Workman", "와썹맨-Wassup Man"]
     },
     {
         "name": "워크맨-Workman",
@@ -49,7 +49,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=_UBmMDNfWwY",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "체험", "재미있는", "엔터테인먼트"
         ],
     
         "characters": [
@@ -76,7 +76,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["달라스튜디오", "미선임파서블"]
       },
       {
         "name": "달라스튜디오",
@@ -88,7 +88,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=44b3rEFTfFY",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "재미있는", "감탄하는", "엔터테인먼트"
         ],
     
         "characters": [
@@ -116,7 +116,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["채널 십오야", "워크맨-Workman"]
       },
       {
         "name": "와썹맨-Wassup Man",
@@ -128,7 +128,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=RIhLicP6LMo",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "체험", "재미있는", "엔터테인먼트"
         ],
     
         "characters": [
@@ -155,7 +155,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["워크맨-Workman", "미선임파서블"]
       },
       {
         "name": "채널 십오야",
@@ -167,7 +167,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=B_v4l5662Zs",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "연예인", "재미있는", "엔터테인먼트"
         ],
     
         "characters": [
@@ -195,7 +195,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["오분순삭", "달라스튜디오"]
       },
       {
         "name": "odg",
@@ -207,7 +207,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=ocdKUqgNvNA",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "인터뷰", "감탄하는", "엔터테인먼트"
         ],
     
         "characters": [
@@ -234,7 +234,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["Solfa", "YOLO STUDIO"]
       },
       {
         "name": "YOLO STUDIO",
@@ -246,7 +246,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=PMBiE2TZp2Y",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "자극적인", "인터뷰", "엔터테인먼트"
         ],
     
         "characters": [
@@ -272,7 +272,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["Ripple_S", "스푸닝 Spooning Korean Talk"]
       },
       {
         "name": "스푸닝 Spooning Korean Talk",
@@ -284,7 +284,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=9q70Zgpg5no",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "인터뷰", "자극적인", "엔터테인먼트"
         ],
     
         "characters": [
@@ -310,7 +310,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["Ripple_S", "YOLO STUDIO"]
       },
       {
         "name": "Solfa",
@@ -322,7 +322,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=dNI8bfXNA4U",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "감탄하는", "인터뷰", "엔터테인먼트"
         ],
     
         "characters": [
@@ -350,7 +350,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["odg", "Ripple_S"]
       },
       {
         "name": "Ripple_S",
@@ -362,7 +362,7 @@
         "latestVideo2": "https://www.youtube.com/watch?v=l-yZHtJvuGw",
     
         "me": [
-          "트위치tv", "높은텐션", "리그오브레전드"
+          "자극적인", "인터뷰", "엔터테인먼트"
         ],
     
         "characters": [
@@ -389,7 +389,7 @@
           }
         ],
     
-        "similar": ["얍얍 TV", "괴물쥐 유튜브"]
+        "similar": ["YOLO STUDIO", "스푸닝 Spooning Korean Talk"]
       },
       {
         "name": "PLAYLIST ORIGINALS 플레이리스트 오리지널",
