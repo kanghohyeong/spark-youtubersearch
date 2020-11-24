@@ -1,18 +1,19 @@
 import React from 'react';
 import data from './data/listData.json'
-import youtuberData from './data/youtuberData'
+import youtuberData from './data/new_youtuberData.json'
 import CardList from './cardList'
 import './youtuberList.css'
 
 export default function YoutuberList(props) {
   const category = props.category
-  const item = props.isLoggedIn? data.category : data.random
+  const item = data.category
   const current = item.filter((it) => it.name === category)[0]
   const info = current.query.map((it, idx) => {
     return({
       title: it,
       names: current.youtubers[idx].map((it) => {
         const value = youtuberData.youtubers.filter(youtuber => youtuber.name === it)[0];
+        console.log(value)
         const characters = value.characters.slice(0, 3).map(it => it.text)
         return({
           name: it,
