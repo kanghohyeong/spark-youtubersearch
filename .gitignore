@@ -3,3 +3,6 @@
 
 #vscode 관련 파일
 .vscode/
+
+#가상환경 폴더
+/youtubeapicrawler/venvYoutubeApi/
