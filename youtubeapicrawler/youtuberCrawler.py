@@ -10,8 +10,8 @@ with open( apiKey_dirt) as json_file:
     json_data = json.load(json_file)
     youtubeApiKey = json_data["APIkey"]
 
-#채널 id 목록 (감스트, 테스터훈)
-target_channels = ['UCbFzvzDu17eDZ3RIeaLRswQ','UCUbOogiD-4PKDqaJfSOTC0g']
+#채널 id 목록 (감스트, 테스터훈, 동수칸)
+target_channels = ['UCbFzvzDu17eDZ3RIeaLRswQ','UCUbOogiD-4PKDqaJfSOTC0g','UCVJT18d9wSCnDUdnJ9ycO7Q']
 
 class youtuberCrawler:
     def __init__(self, channelId):
@@ -72,9 +72,9 @@ class youtuberCrawler:
 result_dirt = current_dirt + '\\youtubeapicrawler\\crawling_result'
 
 
-f = open(result_dirt+'\\gamst.txt', mode='wt', encoding='utf-8')
+f = open(result_dirt+'\\handongsuk.txt', mode='wt', encoding='utf-8')
 
-gamst = youtuberCrawler(target_channels[0])
+gamst = youtuberCrawler(target_channels[2])
 gamst.channelInfo()
 gamst.get_videoIds()
 gamst.get_video_comment()
