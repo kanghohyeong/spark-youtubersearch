@@ -4,14 +4,14 @@ import os
 
 #api 키 경로 설정
 current_dirt = os.getcwd()
-apiKey_dirt = current_dirt + '\\youtubeapicrawler\\APIkey.json'
+apiKey_dirt = current_dirt + '\\crawler\\APIkey.json'
 
 with open( apiKey_dirt) as json_file:
     json_data = json.load(json_file)
     youtubeApiKey = json_data["APIkey"]
 
-#채널 id 목록 (감스트, 테스터훈, 동수칸)
-target_channels = ['UCbFzvzDu17eDZ3RIeaLRswQ','UCUbOogiD-4PKDqaJfSOTC0g','UCVJT18d9wSCnDUdnJ9ycO7Q']
+#채널 id 목록 (감스트, 테스터훈, 동수칸,  얍얍)
+target_channels = ['UCbFzvzDu17eDZ3RIeaLRswQ','UCUbOogiD-4PKDqaJfSOTC0g','UCVJT18d9wSCnDUdnJ9ycO7Q','UCnb4EuP3C0dxeika3b-bnXA']
 
 class youtuberCrawler:
     def __init__(self, channelId):
@@ -48,7 +48,10 @@ class youtuberCrawler:
             commentThreads = self.youtube.commentThreads().list(part=' snippet', videoId=self.recent_videos[i], fields=' nextPageToken, items( snippet( topLevelComment(snippet( textOriginal))))', order='relevance').execute()
             for j in range(0,20):
                 # print(commentThreads['items'][j]['snippet']['topLevelComment']['snippet']['textOriginal'])
-                self.corpus.append(commentThreads['items'][j]['snippet']['topLevelComment']['snippet']['textOriginal'])
+                try:
+                    self.corpus.append(commentThreads['items'][j]['snippet']['topLevelComment']['snippet']['textOriginal'])
+                except:
+                    print("maybe out of range\n")
 
     def get_video_info(self):
         print("get recent video's info  title, desc, tags")
@@ -69,12 +72,12 @@ class youtuberCrawler:
 
 
 #결과 말뭉치 저장 경로 설정
-result_dirt = current_dirt + '\\youtubeapicrawler\\crawling_result'
+result_dirt = current_dirt + '\\crawler\\crawling_result_text'
 
 
-f = open(result_dirt+'\\handongsuk.txt', mode='wt', encoding='utf-8')
+f = open(result_dirt+'\\yapyap.txt', mode='wt', encoding='utf-8')
 
-gamst = youtuberCrawler(target_channels[2])
+gamst = youtuberCrawler(target_channels[3])
 gamst.channelInfo()
 gamst.get_videoIds()
 gamst.get_video_comment()
