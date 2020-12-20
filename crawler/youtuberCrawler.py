@@ -107,13 +107,13 @@ class youtuberCrawler:
 result_dirt = current_dirt + '\\crawler\\crawling_result_text'
 
 
-f = open(result_dirt+'\\handongsuk2.txt', mode='wt', encoding='utf-8')
+f = open(result_dirt+'\\gamst_comments.txt', mode='wt', encoding='utf-8')
 
-gamst = youtuberCrawler(target_channels[2])
-gamst.channelInfo()
+gamst = youtuberCrawler(target_channels[0])
+# gamst.channelInfo()
 gamst.get_recent_videoIds()
 gamst.get_popular_videoIds()
 gamst.get_video_comment()
-gamst.get_video_info()
+# gamst.get_video_info()
 f.write(gamst.result_str_Corpus())
 f.close()
