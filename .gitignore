@@ -4,3 +4,6 @@
 #vscode 관련 파일
 .vscode/
 
+#저장용 데이터셋
+/crawler/crawling_result_text/test_X.json
+/crawler/crawling_result_text/train_X.json
