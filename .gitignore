@@ -7,3 +7,6 @@
 #저장용 데이터셋
 /crawler/crawling_result_text/test_X.json
 /crawler/crawling_result_text/train_X.json
+
+#파이어베이스 api 키
+firebase-apikey.json

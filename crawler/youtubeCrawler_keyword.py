@@ -41,15 +41,20 @@ class youtuberCrawler_keyword:
         self.keywords.extend(channel_keywords_list)
         
     def get_recent_videoIds(self):
-        print("get recent 10 videos id")
-        #최근 5개 동영상 id 획득
-        newpageToken = ''
-        for i in range(1,2):
-            search = self.youtube.search().list(part='snippet', channelId=self.target_channel, type='video', order='date', fields='pageInfo, nextPageToken, items(id(videoId))').execute()
-            newpageToken = search['nextPageToken']
+        print("get recent 50 videos id")
+        #최근 50개 동영상 id 획득
+        search = self.youtube.search().list(part='snippet', channelId=self.target_channel, type='video', order='date', maxResults='50',fields='items(id(videoId))').execute()
+        for j in range(0,50):
+            self.recent_videos.append(search['items'][j]['id']['videoId'])
+        
+        # newpageToken = ''
 
-            for j in range(0,5):
-                self.recent_videos.append(search['items'][j]['id']['videoId'])
+        # for i in range(1,2):
+        #     search = self.youtube.search().list(part='snippet', channelId=self.target_channel, type='video', order='date', fields='pageInfo, nextPageToken, items(id(videoId))').execute()
+        #     newpageToken = search['nextPageToken']
+
+        #     for j in range(0,5):
+        #         self.recent_videos.append(search['items'][j]['id']['videoId'])
         print(self.recent_videos)
 
     def get_popular_videoIds(self):
@@ -67,7 +72,7 @@ class youtuberCrawler_keyword:
     def get_video_tags(self):
         print("get recent video's tags")
         #최근 동영상의 태그
-        for i in range(0,5):
+        for i in range(0,50):
             try:
                 videos = self.youtube.videos().list(part=' snippet', id=self.recent_videos[i], fields='items(snippet(tags) )').execute()
                 self.keywords.extend(videos['items'][0]['snippet']['tags'])
@@ -75,14 +80,14 @@ class youtuberCrawler_keyword:
                 pass
 
 
-        print("get popular video's tags")
-        #인기 동영상의 태그
-        for i in range(0,5):
-            try:
-                videos = self.youtube.videos().list(part=' snippet', id=self.popular_videos[i], fields='items(snippet(tags) )').execute()
-                self.keywords.extend(videos['items'][0]['snippet']['tags'])
-            except:
-                pass
+        # print("get popular video's tags")
+        # #인기 동영상의 태그
+        # for i in range(0,5):
+        #     try:
+        #         videos = self.youtube.videos().list(part=' snippet', id=self.popular_videos[i], fields='items(snippet(tags) )').execute()
+        #         self.keywords.extend(videos['items'][0]['snippet']['tags'])
+        #     except:
+        #         pass
 
 
     def result_keywords(self):
@@ -97,15 +102,15 @@ json_data = OrderedDict()
 json_data["youtubers"] = []
 youtuber_data = OrderedDict()
 
-with open('youtuber_keywords.json', 'wt', encoding='utf-8') as f:
-    for i in range(0, 2):
+with open(current_dirt+"\\crawling_result_text\\youtuber_keywords.json", 'wt', encoding='utf-8') as f:
+    for i in range(0, 20):
         youtuber_data = OrderedDict()
         try:
             print(channel_list['channel_ID'][i])
             crawler = youtuberCrawler_keyword(channel_list['channel_ID'][i])
             crawler.get_channel_keyword()
             crawler.get_recent_videoIds()
-            crawler.get_popular_videoIds()
+            # crawler.get_popular_videoIds()
             crawler.get_video_tags()
             # channel_dic = {'youtube_title':crawler.youtube_title,'namuwiki_title': channel_list['name_namuwiki'][i], 'keywords':crawler.result_keywords() }
             youtuber_data['youtube_title'] = crawler.youtube_title
@@ -115,10 +120,12 @@ with open('youtuber_keywords.json', 'wt', encoding='utf-8') as f:
             json_data['youtubers'].append(youtuber_data)
 
             print(json.dumps(json_data, ensure_ascii=False, indent='\t'))
-            json.dump(json_data, f, ensure_ascii=False, indent='\t')
         except:
+            json.dump(json_data, f, ensure_ascii=False, indent='\t')
             print("api over")
             break
+
+    json.dump(json_data, f, ensure_ascii=False, indent='\t')
 
 # with open('youtuber_keywords.json', 'w', encoding='utf-8') as f:
 #     json.dump(youtubers, f)
