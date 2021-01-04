@@ -2,7 +2,6 @@ from googleapiclient.discovery import build
 import json
 import os
 import pandas as pd
-import json
 from collections import OrderedDict
 
 #api 키 경로 설정
