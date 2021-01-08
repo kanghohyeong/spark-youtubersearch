@@ -1,6 +1,7 @@
 import pandas as pd
 
-words = ['브론즈','실버','골드','플레티넘','다이아몬드','첼린저','천상계','실력']
+words = ['브론즈','실버','골드','플레티넘','다이아몬드','첼린저','천상계','실력', '플레' ,'다이아','챌린저','프로','우승','플래']
+stopwords = ['버튼','구독자']
 
 data = pd.read_csv('channels.csv')
 names = data['name_namuwiki']
