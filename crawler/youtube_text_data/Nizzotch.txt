@@ -1,0 +1,91 @@
+ Minecraft Edge Award (Best Indie 2010) Minecraft sheep test Minecraft - Fighting some spiders Minecraft Rollercoaster! Minecraft Biome Test Minecraft small survival mode status update Crafting and Mining in Minecraft Minecraft dynamic light test Cave game tech test Minecraft daylight and night time cycle Vertex and color offsets in minecraft Minecraft Flight Minecraft: Huge level, teaser of 0.0.13a Minecraft Resources Test Minecraft, New Level Generator Minecraft dynamic light test Minecraft: Huge level, teaser of 0.0.13a Minecraft MD3 test Minecraft progress. Minecraft Progress Video Minecraft Creeper Smoke Creating Prelude of the Chambered Creating Breaking the Tower Minecraft Multiplayer Test Minecraft Rollercoaster! Minecraft MD3 test Creating Prelude of the Chambered Minecraft Biome Test Finite water in Minecraft Farming in minecraft Minecraft rain test Finite water in Minecraft Zombie Town Minecraft sheep test Making Bunny Press Minecraft progress. Minecraft Edge Award (Best Indie 2010) Vertex and color offsets in minecraft Making Bunny Press Making Metagun Minecraft, New Level Generator Minecraft fire test Making of The Europa Arcology Incident Minecraft Resources Test Minecraft: Water test Making of The Europa Arcology Incident Making Metagun Meg4kman run in 2:26 Minecraft particles, chests and spitting lava blobs. And a surprise. Very first test run of giants on minecraft Minecraft small survival mode status update Minecraft Progress Video Minecraft Survival development update Meg4kman run in 2:26 Minecraft Flight Minecraft fire test Minecraft half-size tile test Minecraft rain test Zombie Town Minecraft Creeper Smoke Minecraft particles, chests and spitting lava blobs. And a surprise. Minecraft - Fighting some spiders Minecraft: Huge flood Very first test run of giants on minecraft Minecraft: Huge flood Creating Breaking the Tower Farming in minecraft Crafting and Mining in Minecraft Minecraft: Water test Minecraft water flow test Minecraft water flow test Minecraft Survival development update Minecraft half-size tile test Cave game tech test Minecraft daylight and night time cycle Minecraft Multiplayer Test The Edge Award, because the picture didn't do it justice. I audioswapped the background noise, as it contained secrets! They graze and produce wool!
+The grazing animation is slightly stiff, but I think it works. Their damage has been turned way down here so I can survive. Testing ridable mine carts. The physics change when you're riding them (more inertia, less friction). You can pick them up now, too! It might be hard to tell, but there's about 10 different biomes in this video. The most obvious ones are the arctic ones (with and without trees) and the desert ones. I will spend time on giving the other ones unique looking features like new trees and so.
+Grass, leaf and sky color varies depending on the temperature and humidity in the area you are.
+The music is by C418. Left mouse button to attack, right mouse button to interact (ie place blocks). Monsters can be hurt, but there's no death animation yet. Wow, this has got to be some kind of milestone. For the first time ever, there's both mining and crafting in the game! You can try this already in the indev version. I finally managed to implement the dynamic light engine I had in mind for Minecraft. It adds no performance penalty per frame, and a small one every time a tile changes (especially if it changes brightness).
+I think this is pretty much the perfect mix between speediness, dynamicness and prettiness.
+
+You will be able to turn this off for old hardware This is a very early test of an Infiniminer clone I'm working on. It will have more resource management and materials, if I ever get around to finishing it.
+
+It currently runs at about 700 fps for a 256x256x64 tile map.
+
+You can follow development on my blog: http://notch.tumblr.com/ This is a five minute cycle just to show it off. It will probably be about 20 minutes in the game.
+Monsters far away from the player vanish very fast in daylight, and they only spawn at the surface during night.
+Plants and farms should survive the night, even if they've got glass ceilings. And here's the effect in action.
+I'm not so sure about this.. Testing what kind of terrain the level generator actually produces. This is a straight line fly-over of normal randomly generated terrain in Minecraft Alpha.
+
+In the distant future, there will be more variation such as different terrain types (desert! swamp! snow!) and settlements (goblin village! abandoned stone tower! dragon lair!)
+
+You can download the music here for free:
+http://markusalexei.bandcamp.com/track/satan-looks-after-my-children The map is 512x512x64 Just a quick vid to show what I did today. I'm not entirely convinced I like the look of these, but they're pretty easy to find. Playing around with the new level generation options.
+If you've purchased the game, you can try the latest development version of the game here: http://www.minecraft.net/indev/ I finally managed to implement the dynamic light engine I had in mind for Minecraft. It adds no performance penalty per frame, and a small one every time a tile changes (especially if it changes brightness).
+I think this is pretty much the perfect mix between speediness, dynamicness and prettiness.
+
+You will be able to turn this off for old hardware The map is 512x512x64 These models won't be in the final game. This is just a test of the md3 rendering, and it's working pretty well except for some broken animations. There are mobs and the terrain is interactive now! Grass turns into dirt if it doesn't get sun, and grass spreads to nearby dirt tiles.
+Sorry about the low quality.. I blame CamStudio, or possibly the codec. Showing off the new mob code, visible armor pieces, new mining system (with a new animation when picking up resources), and a total lack of the annoying white glow on hovered tiles. Just a tiny video to show the creeper smoldering effect This is a timelapse of me creating my entry for the 21'st Ludum Dare competition. The entire game was created from scratch within 48 hours, and can be played here: 
+https://s3.amazonaws.com/ld48/index.html Play the game here: http://www.mojang.com/notch/ld12/breaking/
+
+This is a timelapse of me writing Breaking the Tower, a game for the Ludum Dare competiton. See http://www.ludumdare.com/compo/
+
+The entire game was written from scratch within 48 hours, of which I spent about 22 hours writing the game, and the rest either sleeping or celebrating my sister's birthday.
+
+Music: Markus Alexei - What's My Name (part 2) The very first multiplayer test. There were some initial problems with the character rotation, and there's no interpolation going on, but it's working fairly well, I'd say. Testing ridable mine carts. The physics change when you're riding them (more inertia, less friction). You can pick them up now, too! These models won't be in the final game. This is just a test of the md3 rendering, and it's working pretty well except for some broken animations. This is a timelapse of me creating my entry for the 21'st Ludum Dare competition. The entire game was created from scratch within 48 hours, and can be played here: 
+https://s3.amazonaws.com/ld48/index.html It might be hard to tell, but there's about 10 different biomes in this video. The most obvious ones are the arctic ones (with and without trees) and the desert ones. I will spend time on giving the other ones unique looking features like new trees and so.
+Grass, leaf and sky color varies depending on the temperature and humidity in the area you are.
+The music is by C418. Playing around with the recently implemented finite water in Minecraft. Me playing around with farming (coming to indev today) in Minecraft. Testing the new tool (hoe), and waiting for crops to grow. Fun stuff. A similar effect can be used for snow and hail. Obviously slow will need to land on the ground as well. New tile type? Playing around with the recently implemented finite water in Minecraft. The source of the Minecraft Mobs. They graze and produce wool!
+The grazing animation is slightly stiff, but I think it works. Play the game here: http://www.mojang.com/notch/bunnypress/
+
+This is a timelapse of me creating the game Bunny Press in about 18 hours for the Ludum Dare competition.
+
+Music: Markus Alexei - Eirl Rofl Amke There are mobs and the terrain is interactive now! Grass turns into dirt if it doesn't get sun, and grass spreads to nearby dirt tiles.
+Sorry about the low quality.. I blame CamStudio, or possibly the codec. The Edge Award, because the picture didn't do it justice. I audioswapped the background noise, as it contained secrets! And here's the effect in action.
+I'm not so sure about this.. Play the game here: http://www.mojang.com/notch/bunnypress/
+
+This is a timelapse of me creating the game Bunny Press in about 18 hours for the Ludum Dare competition.
+
+Music: Markus Alexei - Eirl Rofl Amke This is a timelapse of me making Metagun, a game for Ludum Dare 18.
+You can play the game here: http://www.mojang.com/compo/metagun/
+The song is called Battery, and was made by me some nine years ago.
+
+The game was all made within 48 hours (from scratch). If you liked this video, there's a whole bunch more timelapse videos from people participating in the same competition here: http://www.youtube.com/view_play_list?p=E8DC350F18C043D5&sort_field=original&page=1 Playing around with the new level generation options.
+If you've purchased the game, you can try the latest development version of the game here: http://www.minecraft.net/indev/ This is a test of the fire system in Minecraft, on an extra dark Hell level, with the rate of fire spread turned way up. Later on, fire won't consume the entire world, to prevent too easy griefing.
+
+The fire texture is animated, glows, and spreads. This game was made over 48 hours, for the 16th Ludum Dare competition.
+I broadcasted the whole thing live to Livestream, and took a screenshot of my main monitor once every ten seconds. I combined those screenshots into a 55 fps movie, combined with a song I wrote a few years ago, called Norepinephrine.
+You can play the game at http://www.mojang.com/notch/ld16/ Just a quick vid to show what I did today. I'm not entirely convinced I like the look of these, but they're pretty easy to find. There are some graphical bugs, and the water doesn't really update as smoothly as I'd like, but here's a first test of the water in Minecraft. This game was made over 48 hours, for the 16th Ludum Dare competition.
+I broadcasted the whole thing live to Livestream, and took a screenshot of my main monitor once every ten seconds. I combined those screenshots into a 55 fps movie, combined with a song I wrote a few years ago, called Norepinephrine.
+You can play the game at http://www.mojang.com/notch/ld16/ This is a timelapse of me making Metagun, a game for Ludum Dare 18.
+You can play the game here: http://www.mojang.com/compo/metagun/
+The song is called Battery, and was made by me some nine years ago.
+
+The game was all made within 48 hours (from scratch). If you liked this video, there's a whole bunch more timelapse videos from people participating in the same competition here: http://www.youtube.com/view_play_list?p=E8DC350F18C043D5&sort_field=original&page=1 Here's my attempt at a speedrun in my own game, Meg4kman. I make several mistakes, but I think the overall time is pretty good.
+
+Play the game here: http://www.mojang.com/notch/j4k/meg4kman/ Can you spot the surprise? Hey, it worked surprisingly good, except for the spawn bug. =) Left mouse button to attack, right mouse button to interact (ie place blocks). Monsters can be hurt, but there's no death animation yet. Showing off the new mob code, visible armor pieces, new mining system (with a new animation when picking up resources), and a total lack of the annoying white glow on hovered tiles. A bunch of newly added stuff for survival mode, release date September 1.
+
+There's no attacking yet, but monsters attack the player, falling hurts, water drowns and lava burninates. Here's my attempt at a speedrun in my own game, Meg4kman. I make several mistakes, but I think the overall time is pretty good.
+
+Play the game here: http://www.mojang.com/notch/j4k/meg4kman/ Testing what kind of terrain the level generator actually produces. This is a straight line fly-over of normal randomly generated terrain in Minecraft Alpha.
+
+In the distant future, there will be more variation such as different terrain types (desert! swamp! snow!) and settlements (goblin village! abandoned stone tower! dragon lair!)
+
+You can download the music here for free:
+http://markusalexei.bandcamp.com/track/satan-looks-after-my-children This is a test of the fire system in Minecraft, on an extra dark Hell level, with the rate of fire spread turned way up. Later on, fire won't consume the entire world, to prevent too easy griefing.
+
+The fire texture is animated, glows, and spreads. I FINALLY got stair physics to work well and solidly. If the physics ever hit a wall, it tries moving up half a tile and sees if it gets further by doing that. If it does, it starts a small animation and won't take another step like that until the animation finishes.
+There are a few bugs and issues still (as can be seen in the video), but it's looking good. A similar effect can be used for snow and hail. Obviously slow will need to land on the ground as well. New tile type? The source of the Minecraft Mobs. Just a tiny video to show the creeper smoldering effect Can you spot the surprise? Their damage has been turned way down here so I can survive. You requested more, here's more. =D
+(where's that water coming from? :-\) Hey, it worked surprisingly good, except for the spawn bug. =) You requested more, here's more. =D
+(where's that water coming from? :-\) Play the game here: http://www.mojang.com/notch/ld12/breaking/
+
+This is a timelapse of me writing Breaking the Tower, a game for the Ludum Dare competiton. See http://www.ludumdare.com/compo/
+
+The entire game was written from scratch within 48 hours, of which I spent about 22 hours writing the game, and the rest either sleeping or celebrating my sister's birthday.
+
+Music: Markus Alexei - What's My Name (part 2) Me playing around with farming (coming to indev today) in Minecraft. Testing the new tool (hoe), and waiting for crops to grow. Fun stuff. Wow, this has got to be some kind of milestone. For the first time ever, there's both mining and crafting in the game! You can try this already in the indev version. There are some graphical bugs, and the water doesn't really update as smoothly as I'd like, but here's a first test of the water in Minecraft. Worst-case, this could get very heavy on the cpu.. But I figured I'd switch to this method instead and see how it works. Worst-case, this could get very heavy on the cpu.. But I figured I'd switch to this method instead and see how it works. A bunch of newly added stuff for survival mode, release date September 1.
+
+There's no attacking yet, but monsters attack the player, falling hurts, water drowns and lava burninates. I FINALLY got stair physics to work well and solidly. If the physics ever hit a wall, it tries moving up half a tile and sees if it gets further by doing that. If it does, it starts a small animation and won't take another step like that until the animation finishes.
+There are a few bugs and issues still (as can be seen in the video), but it's looking good. This is a very early test of an Infiniminer clone I'm working on. It will have more resource management and materials, if I ever get around to finishing it.
+
+It currently runs at about 700 fps for a 256x256x64 tile map.
+
+You can follow development on my blog: http://notch.tumblr.com/ This is a five minute cycle just to show it off. It will probably be about 20 minutes in the game.
+Monsters far away from the player vanish very fast in daylight, and they only spawn at the surface during night.
+Plants and farms should survive the night, even if they've got glass ceilings. The very first multiplayer test. There were some initial problems with the character rotation, and there's no interpolation going on, but it's working fairly well, I'd say.game programming ludumdare theeuropaarcologyincident ld16 speedrun Moon Ludum Dare Timelapse Award bunny press Edge meg4kman Minecraft timelapse minecraft LD48 karma pixels LD18
