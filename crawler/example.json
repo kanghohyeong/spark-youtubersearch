@@ -1,0 +1,54 @@
+{
+	"channels": [
+		{
+			"id": "UCVjAW_GXsPAbXKKEJYPBs0g",
+            "youreco_tags": [
+                {
+                    "tag" : "ability",
+                    "value" : 0.7433
+                },
+                {
+                    "tag" : "clean",
+                    "value" : 0.1233
+                },
+                {
+                    "tag" : "dirty",
+                    "value" : 0.1342
+                },
+                {
+                    "tag" : "master",
+                    "value" : 1
+                },
+                {
+                    "tag" : "lecture",
+                    "value" : 1
+                }
+            ]
+		},
+		{
+			"id": "UClsIn5fbUo2pSJN_3lhnDag",
+			"youreco_tags": [
+                {
+                    "tag" : "ability",
+                    "value" : 0.7433
+                },
+                {
+                    "tag" : "clean",
+                    "value" : 0.1233
+                },
+                {
+                    "tag" : "dirty",
+                    "value" : 0.1342
+                },
+                {
+                    "tag" : "master",
+                    "value" : 1
+                },
+                {
+                    "tag" : "lecture",
+                    "value" : 1
+                }
+            ]
+        }
+    ]
+}

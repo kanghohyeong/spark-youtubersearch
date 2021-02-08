@@ -1,0 +1,17 @@
+{
+    "channels" : [
+        {
+            "id" : "UC4Qw1uE9kwUI4cCAx9HZtxw",
+	"videos": [
+			{
+				"id": "6-NTC1biNdk",
+				"game_tag": "포켓몬스터 소드·실드"
+			},
+			{
+				"id": "YKdqQcxcAeM",
+				"game_tag": "Kamen Rider: Memory of Heroez"
+			}
+            ]
+        }
+    ]
+}
