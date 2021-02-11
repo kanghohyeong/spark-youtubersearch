@@ -1,54 +1,37 @@
 {
-	"channels": [
+	"tags": [
 		{
 			"id": "UCVjAW_GXsPAbXKKEJYPBs0g",
-            "youreco_tags": [
+            "comment_tags": [
                 {
-                    "tag" : "ability",
+                    "tag" : "happy",
                     "value" : 0.7433
                 },
                 {
-                    "tag" : "clean",
+                    "tag" : "sad",
                     "value" : 0.1233
                 },
                 {
-                    "tag" : "dirty",
+                    "tag" : "angry",
                     "value" : 0.1342
                 },
                 {
-                    "tag" : "master",
-                    "value" : 1
+                    "tag" : "surprise",
+                    "value" : 0.0512
                 },
                 {
-                    "tag" : "lecture",
-                    "value" : 1
+                    "tag" : "fear",
+                    "value" : 0.0384
+                },
+                {
+                    "tag" : "hate",
+                    "value" : 0.5132
+                },
+                {
+                    "tag" : "neutrality",
+                    "value" : 0.2245
                 }
             ]
-		},
-		{
-			"id": "UClsIn5fbUo2pSJN_3lhnDag",
-			"youreco_tags": [
-                {
-                    "tag" : "ability",
-                    "value" : 0.7433
-                },
-                {
-                    "tag" : "clean",
-                    "value" : 0.1233
-                },
-                {
-                    "tag" : "dirty",
-                    "value" : 0.1342
-                },
-                {
-                    "tag" : "master",
-                    "value" : 1
-                },
-                {
-                    "tag" : "lecture",
-                    "value" : 1
-                }
-            ]
-        }
+		}
     ]
 }

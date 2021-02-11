@@ -12,6 +12,6 @@ db = mongo.spark612
 
 collection_ = db.channels
 
-item = collection_.find_one()
+item = collection_.find_one({'default_language': {'$exists': False}})
 
 print(item)
